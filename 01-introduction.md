@@ -199,23 +199,21 @@ Are libraries for books, or for people?
 
 Libraries, especially public libraries, are increasingly trying to design around multiple spaces and multiple uses.
 
-<div class='notes'>
-What spaces do we usually see in a public library?
-</div>
-
 ----
 
-- Quiet, loud
-- media spaces
-- children's reading spaces
-- toddler, baby, family activity areas
-- multimedia, gaming
-- computer labs
-- book club, meeting spaces
-- book stores
-- music areas
-- archives
-- display areas
+What spaces do we usually see in a public library?
+
+>- Quiet, loud
+>- media spaces
+>- children's reading spaces
+>- toddler, baby, family activity areas
+>- multimedia, gaming
+>- computer labs
+>- book club, meeting spaces
+>- book stores
+>- music areas
+>- archives
+>- display areas
 
 ------
 

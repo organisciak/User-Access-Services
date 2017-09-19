@@ -21,12 +21,8 @@
 ## Annotated bibliography
 
 - A list of citations to materials accompanied by a short annotation
-
-- [How to prepare an annotated bibliography](http://guides.library.cornell.edu/annotatedbibliography) - Michael Engle, Cornell University library
-
-------
-
-## Assignment #1 Details
+    - [How to prepare an annotated bibliography](http://guides.library.cornell.edu/annotatedbibliography) - Michael Engle, Cornell University library
+- 2 pages, 10-15 citations
 
 ------
 
@@ -37,12 +33,6 @@ Next week's lab: Types of Libraries
 # Other stuff
 
 >- Extra readings
-
---------
-
-## Assignment #3 Details
-
->- Group assignment: I'm still figuring out how to
 
 --------
 
@@ -75,13 +65,17 @@ Next week's lab: Types of Libraries
 
 -------
 
+- What types of passive search or ongoing search do you perform? In what way?
+
+-------
+
 ## Ellis model
 
 _Starting - Chaining - Browsing - Differentiating - Monitoring - Extracting - Verifying - Ending_
 
->- _starting_: beginning activities, e.g. asking some knowledgeable colleague;
+>- _starting_: beginning activities, e.g. asking some knowledgeable colleague
 >- _chaining_: following footnotes and citations or
-‘forward’ chaining through citation indexes;
+‘forward’ chaining through citation indexes
 >- _browsing_: semi-directed or semi-structured searching
 >- _differentiating_: using differences in information sources as a way of filtering for useful information
 
@@ -136,6 +130,12 @@ _Starting - Chaining - Browsing - Differentiating - Monitoring - Extracting - Ve
 
 -------
 
+- Do you agree with this process? These emotions?
+- Have you recently experienced confusion or frustration during the exploration step?
+- Is this useful? How might we apply this framework?
+
+-------
+
 ## Dervin - Sense-Making
 
 - Associated with shift from information _sources_ to _users_
@@ -181,3 +181,9 @@ Bates lists six more strategies for information-seeking:
 - area scanning (what's in the library next to the book you want?)
 - subject searches in bibliographies and abstracting services
 - author searching
+
+------------------------
+
+# For Next week
+
+- Lab #2 will be in class. Read your reading!
