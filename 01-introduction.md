@@ -96,6 +96,7 @@ Learn something about your partner and tell the rest of the class.
 >- Customer?
 >- User?
 >- Guest
+
 ----
 
 ### Types of Needs
@@ -155,6 +156,8 @@ Evans (p.5)
 - Setting expectations
 - avoiding unhappy users
 - emphasizing communication in librarianship > dealing with people is central!
+
+Evans
 
 -----
 
