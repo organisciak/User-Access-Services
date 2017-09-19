@@ -177,7 +177,7 @@ Who has been to Anderson Academic Commons?
 ----
 
 [A search for 'library spaces'](https://www.google.com/search?q=library+spaces&rlz=1C1GGRV_enUS761US761&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj6ifbfkqDWAhVh1oMKHermCCMQsAQIdQ)
-![Library Spaces](images/libraryspaces.png)
+![Library Spaces](images/libraryspaces.PNG)
 
 ----
 
