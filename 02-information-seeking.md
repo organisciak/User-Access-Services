@@ -1,4 +1,4 @@
-% Information Seeking Behavior
+% Information Behavior
 % Peter Organisciak
 % Fall 2017
 
@@ -11,6 +11,14 @@
 - Instruction schedules
 - Lab reading assignment
 - Information seeking behavior
+
+--------
+
+![](images/kiki2.jpg)
+
+--------
+
+![](images/kiki3.jpg)
 
 --------
 
@@ -30,9 +38,13 @@ Next week's lab: Types of Libraries
 
 ------
 
-# Other stuff
+## Other stuff
 
 >- Extra readings
+
+--------
+
+## Introductions post
 
 --------
 
@@ -45,7 +57,11 @@ Next week's lab: Types of Libraries
 - Today's class is likely the most theoretical in this quarter
   - Consider these models throughout the course
 
--------
+<div class="notes">
+Examples of your information needs
+</div>
+
+-----
 
 - Sense-Making - Dervin
 - Anomalous States of Knowledge - Belkin
@@ -102,7 +118,7 @@ _Starting - Chaining - Browsing - Differentiating - Monitoring - Extracting - Ve
 
 -------
 
-## Kuhlthau's Information Search Process
+## Kuhlthau's Information Search Process (ISP)
 
 - alternate conceptual framework to Ellis, more experiential
 - focus on active search
@@ -138,10 +154,32 @@ _Starting - Chaining - Browsing - Differentiating - Monitoring - Extracting - Ve
 
 ## Dervin - Sense-Making
 
+> "information-seeking and information-using occur when individuals find themselves unable to progress through a particular situation without forming some kind of new "sense" about something" (Dervin 86)
+
+------------
+
+## Dervin - Sense-Making
+
 - Associated with shift from information _sources_ to _users_
 - considers _cognitive gap_
 - used in reference interview techniques (describing situation-gaps-uses)
 - focus on verbs rather than nouns, emphasizing the process
+- Information as a product of human observation, colored by situation and experience
+
+-------
+
+## situation-gaps-uses models
+
+- situation refers to events that contextualize the lack of sense - or gap
+- use is the purpose of the answer
+
+'sense-making' is intended to rebut 'information-seeking'
+
+-------
+
+## Sense-unmaking
+
+ If information is a product of human situation and experience, it is important to be able to deconstruct it and reconstruct it in new contexts. Power plays into sense-making, and recognizing it provides a way to adapt to that
 
 -------
 
@@ -182,7 +220,22 @@ Bates lists six more strategies for information-seeking:
 - subject searches in bibliographies and abstracting services
 - author searching
 
-------------------------
+---------------
+
+- Cognitive dimensions: Belkin (ASK), Dervin (Sense-Making)
+- Emotional dimensions: Kuhlthau
+- Information seeking process: Bates (Berry-picking),
+- User and information context: Wilson, Belkin, Dervin
+
+------------
+
+## Why does this matter?
+
+>- assist in reference interview
+>- positioning user, context, and emotional into instruction
+>- expanding thinking about possible approaches (e.g. chaning, monitoring, passive search)
+
+----------
 
 # For Next week
 
