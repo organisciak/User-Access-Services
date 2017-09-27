@@ -126,7 +126,7 @@ An entry representing a specific item in a library catalog or bibliographic data
 ## LOD: Linked Open Data
 
 - [DBPedia](http://dbpedia.org/page/Annot_(artist))
-    - [SPARQL Search](http://dbpedia.org/snorql/?query=SELECT%20?name%20?birth%20?death%20?person%20WHERE%20{%20%20%20%20%20%20?person%20dbo:birthPlace%20:Berlin%20.%20%20%20%20%20%20?person%20dbo:birthDate%20?birth%20.%20%20%20%20%20%20?person%20foaf:name%20?name%20.%20%20%20%20%20%20?person%20dbo:deathDate%20?death%20.%20%20%20%20%20%20FILTER%20(?birth%20%3C%20%221900-01-01%22^^xsd:date)%20.%20}%20ORDER%20BY%20?name)
+    - [SPARQL Search](https://goo.gl/F5Txbs)
 - Freebase
 - [LinkedMDB](http://data.linkedmdb.org/page/film/2014)
 - New York Times - [Semantics API](https://github.com/NYTimes/public_api_specs/blob/master/semantic_api/semantic_api.md)
