@@ -28,7 +28,12 @@
 
 ## Library services
 
-- technical services: acquisitions, cataloging, and collections management
+- Overview of technical services: acquisitions, cataloging, and collections management
+- Copy cataloguing vs. original catalogue
+- Classification
+- Subject access
+- Authority control and linked open data: Linked open data
+- Metadata standards
 
 ------
 
@@ -95,7 +100,11 @@ An entry representing a specific item in a library catalog or bibliographic data
 
 ------
 
-## Universal Decimal System
+## Library of Congress Subject Headings (LCSH)
+
+<http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First>
+
+LCSH and LCC in context: [LOC online catalog](https://catalog.loc.gov/)
 
 ----------
 
@@ -113,7 +122,7 @@ An entry representing a specific item in a library catalog or bibliographic data
 ## Shared bibliographic databases
 
 - [OCLC](https://www.oclc.org/en/home.html)
-    - [WorldCat]https://www.worldcat.org/)
+    - [WorldCat](https://www.worldcat.org/)
 
 -------
 
@@ -158,10 +167,6 @@ An entry representing a specific item in a library catalog or bibliographic data
 -------------
 
 - Where does FRBR over-simplify? Where might it be inadequate?
-
--------
-
-## Collections Management
 
 -------
 
