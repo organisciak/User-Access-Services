@@ -51,14 +51,23 @@ _Transliteracy_: "ability to read, write, and interact across a range of platfor
 
 ------
 
-## Components of information literacy
+![ACRL Information Literacy Resources](http://acrl.libguides.com/slilc/home)
 
-- key skills
-- subject-specific competencies
-- advanced information handling
-- learning to learn
+------
 
-(Secker and Coonan 2013, via Evans et al.)
+The Seven Pillars of Information Literacy.
+
+_What's missing? How do these skills develop?_
+
+1. The ability to recognize a need for information.
+2. The ability to distinguish ways in which the information “gap” may be addressed.
+3. The ability to construct strategies for locating information.
+4. The ability to locate and access information.
+5. The ability to compare and evaluate information obtained from different sources.
+6. The ability to organize, apply, and communicate information to others in appropriate ways.
+7.The ability to synthesize and build upon existing information, contributing to the creation of new knowledge.
+
+(http://www.sconul.ac.uk/groups/information_literacy/headline_skills.html updated February 2008).
 
 -------
 
@@ -108,7 +117,7 @@ via [Cornell Center for Teaching Innovation](https://www.cte.cornell.edu/teachin
 
 ### Approaches
 
->- think-pair-share: short partner discussions in classification
+>- think-pair-share: short partner discussions in class
 >- problem- or case-based research projects
 >- case studies
 >- collaborative note taking
@@ -123,6 +132,21 @@ via [Cornell Center for Teaching Innovation](https://www.cte.cornell.edu/teachin
 ### Benefits
 
 >- in lectures, attention starts to wane after 10-20 minutes
->- students have time to contemplate what they know, and what questions are outstanding
 >- instructor is more sensitive to where students are, necessary corrections
 >- addresses personal learning styles, allows for personal connections to materials
+
+---------
+
+## Planning Process
+
+via Grassian and Kaplowitz (2009), ELIS
+
+- recognize the need
+- describe and analyze the situation
+    - perform a needs assessment
+- developing goals and learning outcomes
+    - write from the learner's perspective
+- develop materials
+- deliver
+- assess and revise
+    - Do they like it? Do they get it? Can they do it? Does it matter?
