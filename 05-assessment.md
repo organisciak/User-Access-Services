@@ -8,17 +8,21 @@
 
 - Administration
 - Cataloguing wrap-up
-- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
 - Check-in on assignments
 - Assessment
 
 --------
+
+![](images/kiki6.jpg)
+
+-------
 
 ## Administration
 
 - announcements?
 - opportunities fair
     - advice from librarians
+- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
 
 ------------
 
@@ -48,41 +52,6 @@ _Why assessment? How?_
 - Impact assessment
 
 Assessment has internal uses (determining if you have the correct services properly provided) and external uses (accountability to library stakeholders)
-
-------
-
-## Needs assessment
-
-- assessment between three interests:
-    - community needs and culture, in the context of
-    - the organization's mission and goals, tempered by
-    - possibilities (space, time, budget, people)
-
------
-
-Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
-
-- Who lives here?
-- What cultures are represented?
-- Are there different languages spoken?
-- What agencies in my local area serve the same audience?
-- What does my county do for the same audience I’m looking to  serve? What about the state level?
-
------
-
-Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
-
-- Are there elected officials who would be interested to hear of the library’s work with families of young children?
-- What barriers exist within our building to serving young families?
-- Are there barriers in the community that inhibit our growth to serving this population?
-- What are the strengths and weaknesses of my staff?
-
------
-
-- census data
-- gate information
-- user surveys
-- [community analysis](https://www.lrs.org/public/ca_form.php)
 
 -----
 
@@ -194,3 +163,36 @@ Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide 
 - tools
 - formative vs summative evaluation
 - outcome-based evaluation
+
+## Needs assessment
+
+- assessment between three interests:
+    - community needs and culture, in the context of
+    - the organization's mission and goals, tempered by
+    - possibilities (space, time, budget, people)
+
+-----
+
+Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
+
+- Who lives here?
+- What cultures are represented?
+- Are there different languages spoken?
+- What agencies in my local area serve the same audience?
+- What does my county do for the same audience I’m looking to  serve? What about the state level?
+
+-----
+
+Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
+
+- Are there elected officials who would be interested to hear of the library’s work with families of young children?
+- What barriers exist within our building to serving young families?
+- Are there barriers in the community that inhibit our growth to serving this population?
+- What are the strengths and weaknesses of my staff?
+
+-----
+
+- census data
+- gate information
+- user surveys
+- [community analysis](https://www.lrs.org/public/ca_form.php)
