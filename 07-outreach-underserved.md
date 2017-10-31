@@ -115,6 +115,7 @@ _What challenges may limit the access to services for these users?_
 >- classroom, camp, preschool visits
 >- bookmobiles
 >- little free libraries
+>- Wheelie the Book Bike
 
 -------
 
