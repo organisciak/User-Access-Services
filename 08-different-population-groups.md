@@ -63,13 +63,24 @@ What are the ways that we interface with technology in libraries?
 >- captioning, descriptive text
 >- eye-tracking
 
+-------
+
+![](images/keyboard.png)
+
+-----
+
+![](images/trackpad.jpg)
+
 -----------
 
 >- density scaling, magnification
 >- stickykeys, filterkeys
 >- extra large mouse pointers
 >- high-contrast screen modes
->- VizWiz
+
+-------
+
+![VizWiz](images/vizwiz.png)
 
 -------
 

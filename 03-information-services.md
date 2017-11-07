@@ -29,10 +29,10 @@
 ## Library services
 
 - Overview of technical services: acquisitions, cataloging, and collections management
-- Copy cataloguing vs. original catalogue
+- Copy cataloguing vs. original cataloguing
 - Classification
 - Subject access
-- Authority control and linked open data: Linked open data
+- Authority control and linked open data
 - Metadata standards
 
 ------

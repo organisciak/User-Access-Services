@@ -101,7 +101,7 @@ _What are the downsides to one-shot instruction? What are the upsides?_
 
 ## Active Learning
 
-Learning by participating in the process of learn - rather than sitting, listening, and memorizing
+Learning by participating in the process of learning - rather than sitting, listening, and memorizing
 
 - "anything that involves students in doing things and thinking about the things they are doing" (Bonwell & Eison, 1991).
 

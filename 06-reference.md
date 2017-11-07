@@ -107,7 +107,7 @@ Sometimes the answer is not enough
 
 --------
 
-## Question Types (DIR4)
+## Question Types
 
 - __Directional__. Information about library services / space: "Where do I return my books?"
 - __Instruction__. Learning to learn.
