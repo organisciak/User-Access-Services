@@ -1629,7 +1629,29 @@ https://www.ablenetinc.com/technology/switches
 
 -------
 
-## Lab #5 Notes
+- bilingual librarianship
+- "Library-View"
+- Don't leave behind older adults and rural users - we're still in a transition to digital
+    - also: population is aging!
+- more support for software that helps people with disabilities
+- improved algorithmic knowledge extraction, text entailment, etc. (e.g. Watson)
+- evolutions of libraries as space
+- automatic checkouts
+- "mini libraries" - library vending machines
+- robots, VR: more hardware
+- gamification; digital badges
+
+<div class="notes">
+Lab #5 Notes
+</div>
+
+-------
+
+> The American Library Association’s Center for the Future of Libraries provides a fellowship for an individual or group interested in exploring the future of libraries.
+
+>The fellowship offers a stipend of $10,000 to advance new ideas and perspectives for the future of libraries through the creation of a public product – report, white paper, video, resource, tool – that will help library professionals envision the future of library collections, partnerships, services, spaces, or technologies.
+
+http://www.ala.org/tools/librariestransform/future/engage/fellowship
 
 -------
 
@@ -1697,4 +1719,28 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 - [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill)
 
 -------
+
+# Digital Preservation
+
+[![XKCD: Digital Resource Lifespan](images/digital_resource_lifespan.png)](https://xkcd.com/1909/)
+
+-------
+
+### Data curation in Academic Libraries
+![Research Data Lifecycle - DataOne](DLC2015_sm.png)
+- Research Data Lifecycle - DataOne
+-----
+
+- Research Data Services
+    - support, expertise
+    - technical resources
+- Institutional Repositories
+    - 1st party hosting for scholarly research
+
+-------
+
+# Trends
+
+[![Trends - Center for the Future of Libraries](images/trends.png)](http://www.ala.org/tools/future/trends)
+- Trends - Center for the Future of Libraries
 -----
