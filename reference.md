@@ -1612,7 +1612,6 @@ https://www.ablenetinc.com/technology/switches
 ## Today
 
 - Presentations
-- Accessibility and different population groups
 - The Present and Future of Services - Part 1
 
 ------
@@ -1644,14 +1643,41 @@ https://www.ablenetinc.com/technology/switches
 <div class="notes">
 Lab #5 Notes
 </div>
+-----
+% The Present and Future of Services 2
+% Peter Organisciak
+% November 14, 2017
+
+## Today
+
+- Presentation
+- [Accessibility](08-different-population-groups.html#/accessibility)
+- The Present and Future of Services - Part 2
+    - Funding, Data Curation, Anonymity, Trends, Copyright, Futurism
+
+------
+
+![](images/kiki11.jpg)
+
+-----
+
+## Administration
+
+- Announcements?
+- Reminder: RMIS happy hour, Fri/6pm/Fermaentra
+- Field trip debrief
+- Course evaluations
+
+------
+
+![](images/ratingsgraph.jpg){class="plain"}
 
 -------
 
-> The American Library Association’s Center for the Future of Libraries provides a fellowship for an individual or group interested in exploring the future of libraries.
+"The American Library Association’s Center for the Future of Libraries provides a fellowship for an individual or group interested in exploring the future of libraries.
+The fellowship offers a stipend of $10,000 to advance new ideas and perspectives for the future of libraries through the creation of a public product – report, white paper, video, resource, tool – that will help library professionals envision the future of library collections, partnerships, services, spaces, or technologies."
 
->The fellowship offers a stipend of $10,000 to advance new ideas and perspectives for the future of libraries through the creation of a public product – report, white paper, video, resource, tool – that will help library professionals envision the future of library collections, partnerships, services, spaces, or technologies.
-
-http://www.ala.org/tools/librariestransform/future/engage/fellowship
+<http://www.ala.org/tools/librariestransform/future/engage/fellowship>
 
 -------
 
@@ -1727,8 +1753,8 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 -------
 
 ### Data curation in Academic Libraries
-![Research Data Lifecycle - DataOne](DLC2015_sm.png)
-- Research Data Lifecycle - DataOne
+![Research Data Lifecycle - DataOne](images/DLC2015_sm.png)
+
 -----
 
 - Research Data Services
@@ -1737,10 +1763,43 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 - Institutional Repositories
     - 1st party hosting for scholarly research
 
+------
+
+## Copyright
+
 -------
 
-# Trends
+## Trends
 
 [![Trends - Center for the Future of Libraries](images/trends.png)](http://www.ala.org/tools/future/trends)
+
 - Trends - Center for the Future of Libraries
+
+-------
+
+## The Future
+
+- _Why_ do libraries change?
+    - Why space evolution? Why makerspaces? Why e-books?
+
+--------
+
+### Licklider - Libraries of the Future
+- dwindling physical storage needs
+- knowledge graphs: information needs to be structured to be convenient
+    - the dream of Linked Open Data and relationship graphs
+- interdisciplinary boundaries: there's value in computer sciences, social sciences, library sciences
+- we need a 'relevance network'
+    - anticipates branches of relevance, and information retrieval ranking (think PageRank!)
+
+----
+
+- imagined 'pro-cognitive' systems - systems that augment your thinking
+    - natural language interactions
+        - user-based rather than system-based questions, on a system! (sorta...)
+- techno-optimism, but imagining the future around _needs_, not _haves_
+
+------
+
+# Thank you!
 -----
