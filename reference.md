@@ -1665,6 +1665,8 @@ Lab #5 Notes
 
 - Announcements?
 - Reminder: RMIS happy hour, Fri/6pm/Fermaentra
+- Exploring New Heights - Sat/9am/ Mt. Sanitas
+- Readings
 - Field trip debrief
 - Course evaluations
 
@@ -1746,7 +1748,22 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 
 -------
 
-# Digital Preservation
+- privacy shifting
+- shallow profiles
+- blockchain
+- connected toys
+
+-----
+
+[![](images/cloudpets.png)](https://qz.com/920482/dont-buy-your-kids-internet-connected-toys/)
+
+------
+
+- 24% of online adults use messaging apps that automatically delete sent messages ([Pew, 2016](http://www.pewinternet.org/2016/11/11/social-media-update-2016/))
+
+-------
+
+## Digital Preservation
 
 [![XKCD: Digital Resource Lifespan](images/digital_resource_lifespan.png)](https://xkcd.com/1909/)
 
@@ -1757,6 +1774,10 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 
 -----
 
+[![](images/DOtHW6gVoAAjCoL.jpg)](https://twitter.com/adr/status/930916211420024832)
+
+----
+
 - Research Data Services
     - support, expertise
     - technical resources
@@ -1764,6 +1785,22 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
     - 1st party hosting for scholarly research
 
 ------
+
+## Better living through hardware
+
+Drones, robots, 3d printing, connected toys, internet of things, haptics, makerspaces
+
+>- _Generously: how can these be useful?_
+>- _What counterpoints are there? What risks do they pose?_
+
+------
+
+>- cost of ephemeral fads
+>- haptics can help in learning
+>- overly structured toys limit learning through play 
+>- demographics: tech may need to fill in as working/retired ratio shifts
+
+-------
 
 ## Copyright
 
@@ -1785,6 +1822,7 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 --------
 
 ### Licklider - Libraries of the Future
+
 - dwindling physical storage needs
 - knowledge graphs: information needs to be structured to be convenient
     - the dream of Linked Open Data and relationship graphs
