@@ -1,6 +1,6 @@
 % Shushing 101
 % Peter Organisciak
-% Fall 2017
+% Fall 2018
 
 # User and Access Services
 
@@ -56,6 +56,12 @@ Easy enough...
 
 ----
 
+Think of _User and Access Services_ as the first part of a two-year class.
+
+We're establishing the foundation to build on.
+
+----
+
 ### Learning Outcomes
 
 -----
@@ -79,11 +85,23 @@ Learn something about your partner and tell the rest of the class.
 
 -----
 
+## Office Hours
+
+Book at [https://organisciak.youcanbook.me](https://organisciak.youcanbook.me)
+
+Generally: Wed 11-1, with other times added when possible
+
+![Office Hours](images/office-hours-schedule.png)
+
+-----
+
 ### Group Preference
 
 - Type of library or archive
 - Age group
 - Name, section
+
+----
 
 # Introduction
 
@@ -159,97 +177,15 @@ Evans (p.5)
 
 Evans
 
------
-
-# Library Spaces
-
-----
-
-## Library Experiences
-
-<div class="notes">
-Who has been to Anderson Academic Commons?
-</div>
-
------
-
->physical library 'is a place where cultural, social, and intellectual exchanges occur, often mediated by the resources in the library collection'
-
-- Mardis 2011
-
-----
-
-[A search for 'library spaces'](https://www.google.com/search?q=library+spaces&rlz=1C1GGRV_enUS761US761&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj6ifbfkqDWAhVh1oMKHermCCMQsAQIdQ)
-![Library Spaces](images/libraryspaces.PNG)
-
-----
-
-Are libraries for books, or for people?
-
->- Librarians disagree
->- Patrons disagree
-
-----
-
-![](images/pew-meeting-spaces.png)
-
-------
-
-### Multiple Spaces, aka the _Death of Shushing_
-
-Libraries, especially public libraries, are increasingly trying to design around multiple spaces and multiple uses.
-
-----
-
-What spaces do we usually see in a public library?
-
->- Quiet, loud
->- media spaces
->- children's reading spaces
->- toddler, baby, family activity areas
->- multimedia, gaming
->- computer labs
->- book club, meeting spaces
->- book stores
->- music areas
->- archives
->- display areas
-
-------
-
-[Auraria Public Library Spaces](https://library.auraria.edu/about/spaces)
-
-------
-
-![IdeaLAB](images/denver-idealab.png)
-
-- [Denver ideaLAB](https://www.denverlibrary.org/meeting-rooms-branches)
-- [BLDG 61: Boulder Library Makerspace](https://boulderlibrary.org/bldg61/)
-- [MakeLab Auraria](https://library.auraria.edu/makelab)
-
------
-
-[Children's Activity and Learning Center, Thailand](https://www.designboom.com/architecture/24h-architecture-childrens-activity-and-learning-center-thailand/)
-![](images/ecological-childrens-activity-center.jpg)
-
------
-
-![](images/treehouse-gallery.jpg)
-Temporary Tree House Gallery in Regent's Park
-
-----
-
-- [How do Americans use Libraries](http://www.pewinternet.org/2016/09/09/libraries-2016/)
-- [ALA Public Library Factsheet](http://www.ala.org/tools/libfactsheets/alalibraryfactsheet06)
--------
-
 # Next Week
 
 -----
 
+- Two optional preference surveys, on Canvas.
+   - Topics for marketing proposal group project
+   - Volunteer for week 6 deadline for information literacy instruction assignment
+
 - Post on the _Introductions_ forum
-  - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can go back to it, and to practice using Canvas.
+  - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can refer back to it.
 
-- Lab #1
-
-- Fill out assignment #3 preference survey
+- Lab #1 discussion, on Canvas
