@@ -8,8 +8,8 @@
 
 Welcome!
 
-- About Me
 - Course Overview
+- About Me
 - Administration
 - About you
 - Tips
@@ -67,15 +67,37 @@ We're establishing the foundation to build on through your MLIS.
 >- Information literacy
 >- Outreach
 >- Assessment, evaluation
+>- Circulation
 >- Library as space
 >- Serving different population groups
 >- Changing environments and services
 
-----
+-----
 
-### Learning Outcomes
+# Administration
+
+## About Me
 
 -----
+
+## Office Hours
+
+Book at [https://organisciak.youcanbook.me](https://organisciak.youcanbook.me)
+
+Generally: Wed 11-1, with other times added when possible
+
+![Office Hours](images/office-hours-schedule.png)
+
+-----
+
+## Tips for graduate school
+
+>- Work together to figure things out.
+Refer to the readings and class materials in assignments.
+>- Write clearly and succinctly. This is a professional program and you should be writing as people read. Don't try to impress, try to communicate.
+>- Engage with the content earnestly. Appreciate the breadth of the challenges and consider how the solutions address or fail to address them. What’s interesting or unexpected? What open threads are exciting to pursue further?
+
+------
 
 ### About you
 
@@ -89,16 +111,6 @@ Learn something about your partner and tell the rest of the class.
 - assignments
 - Canvas
 - labs
-
------
-
-## Office Hours
-
-Book at [https://organisciak.youcanbook.me](https://organisciak.youcanbook.me)
-
-Generally: Wed 11-1, with other times added when possible
-
-![Office Hours](images/office-hours-schedule.png)
 
 -----
 
@@ -160,6 +172,20 @@ Why?
 
 ----
 
+_taking a step back to contextualize..._
+
+----
+
+### Broad Library Types
+
+>- Public
+>- Academic
+>- Corporate / Private
+>- School
+>- Special
+
+-----
+
 ### Four Basic Roles of Libraries
 
 >1. _Acquiring_ materials deemed valuable or useful
@@ -172,18 +198,6 @@ Evans (p.5)
 >- _In this class, we look at access (3) and services (4)_
 
 ----
-
-_taking a step back to contextualize..._
-
-### Broad Library Types
-
->- Public
->- Academic
->- Corporate / Private
->- School
->- Special
-
------
 
 ### ALA Code of Ethics
 
@@ -220,17 +234,17 @@ Evans
 -----
 
 - Two optional preference surveys, on Canvas.
-   - Topics for marketing proposal group project
-   - Volunteer for week 6 deadline for information literacy instruction assignment
+    - Topics for marketing proposal group project
+    - Volunteer for week 6 deadline for information literacy instruction assignment
 
 - Post on the _Introductions_ forum
-  - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can refer back to it.
+    - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can refer back to it.
 
 - Lab #1 discussion, on Canvas
 
 ------
 
-# Overflow: Library Spaces
+# Library Spaces
 
 *Are we ahead of schedule? A bit from next week...*
 
