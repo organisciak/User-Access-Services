@@ -17,11 +17,13 @@ Welcome!
 
 ----
 
-![](images/kiki1.jpg)
+# Announcements
+
+- CALCON
 
 ----
 
-### About Me
+![](images/kiki1.jpg)
 
 ----
 
@@ -76,8 +78,6 @@ We're establishing the foundation to build on through your MLIS.
 
 # Administration
 
-## About Me
-
 -----
 
 ## Office Hours
@@ -87,6 +87,14 @@ Book at [https://organisciak.youcanbook.me](https://organisciak.youcanbook.me)
 Generally: Wed 11-1, with other times added when possible
 
 ![Office Hours](images/office-hours-schedule.png)
+
+------
+
+# Communication policy
+
+1. Is it a question that might interest other students? Post it on Canvas!
+
+2. Is it a question that only pertains to you? Email Dr. O, with [LIS4015] at the start of subject line. This helps ensure a quicker response.
 
 -----
 
@@ -99,6 +107,16 @@ Refer to the readings and class materials in assignments.
 
 ------
 
+## Expectations in graduate school
+
+You are expected to be more self-driven and creative with your assignments in graduate school. Assignments are not checklists of instructions to follow - they are prompts for you to mix with your learned and experienced knowledge.
+
+------
+
+## About Me
+
+-----
+
 ### About you
 
 Learn something about your partner and tell the rest of the class.
@@ -107,10 +125,12 @@ Learn something about your partner and tell the rest of the class.
 
 ------
 
-- syllabus overview
-- assignments
+- Syllabus Overview
+- Reserves
+- Assignments
 - Canvas
-- labs
+  - reading schedule
+- Labs
 
 -----
 
@@ -134,15 +154,74 @@ _If you have a computer, now's a good time for the two optional surveys: one on 
 
 ----
 
+### Broad Library Types
+
+>- Public
+>- Academic
+>- Corporate / Private
+>- School
+>- Special
+
+----
+
+Some ways to think about libraries - by its materials, by its services, by it's profession, by its users, and by its spaces...
+
+-----
+
+### Four Basic Roles of Libraries
+
+>1. _Acquiring_ materials deemed valuable or useful
+>2. _Storing_ and _preserving_ those materials
+>3. _Organizing_ materials for efficient access
+>4. _Providing assistance_ to individuals in locating information
+
+Evans (p.5)
+
+>- _In this class, we look at access (3) and services (4)_
+
+----
+
+### ALA Code of Ethics
+
+<http://www.ala.org/tools/ethics>
+
+------
+
+# Users
+
+-----
+
 ### Who does the library serve?
 
 >- Patron?
 >- Client?
 >- Customer?
 >- User?
->- Guest
+>- Guest?
 
 ----
+
+"Librarians who flinch at the word _customer_ are operating out of an outmoded paradigm. This older paradigm portrays the library as a "public good" with as high a ranking on the 'goodness' scale as the national flag, parenthood, and apple pie. However... unless it adopts and masters the language and techniques of its competitors, it faces a future of declining support and significance.""
+
+ - Darlene Weingand, _Customer service excellence : a concise guide for librarians_, 1997
+
+-----
+
+>- Do you agree? Disagree?
+>- Even if _customer_ feels icky... what would the _customer service_ lens entail?
+
+------
+
+- Thinking beyond service _offerings_ - including _quality_ and _satisfaction_
+- Assessment - surveys, interviews
+- Understanding the user, listening and responding
+- Setting expectations
+- avoiding unhappy users
+- emphasizing communication in librarianship > dealing with people is central!
+
+Evans
+
+------
 
 ### Types of Needs
 
@@ -170,83 +249,9 @@ Why?
 >- time, space
 >- The values of experts and communities may misalign
 
-----
-
-_taking a step back to contextualize..._
-
-----
-
-### Broad Library Types
-
->- Public
->- Academic
->- Corporate / Private
->- School
->- Special
-
------
-
-### Four Basic Roles of Libraries
-
->1. _Acquiring_ materials deemed valuable or useful
->2. _Storing_ and _preserving_ those materials
->3. _Organizing_ materials for efficient access
->4. _Providing assistance_ to individuals in locating information
-
-Evans (p.5)
-
->- _In this class, we look at access (3) and services (4)_
-
-----
-
-### ALA Code of Ethics
-
-<http://www.ala.org/tools/ethics>
-
-------
-
-# Users
-
-----
-
-"Librarians who flinch at the word _customer_ are operating out of an outmoded paradigm. This older paradigm portrays the library as a "public good" with as high a ranking on the 'goodness' scale as the national flag, parenthood, and apple pie. However... unless it adopts and masters the language and techniques of its competitors, it faces a future of declining support and significance.""
-
- - Darlene Weingand, _Customer service excellence : a concise guide for librarians_, 1997
-
------
-
->- Do you agree? Disagree?
->- Even if _customer_ feels icky... what would the _customer service_ lens entail?
-
-------
-
-- Thinking beyond service _offerings_ - including _quality_ and _satisfaction_
-- Assessment - surveys, interviews
-- Understanding the user, listening and responding
-- Setting expectations
-- avoiding unhappy users
-- emphasizing communication in librarianship > dealing with people is central!
-
-Evans
-
-# Next Week
-
------
-
-- Two optional preference surveys, on Canvas.
-    - Topics for marketing proposal group project
-    - Volunteer for week 6 deadline for information literacy instruction assignment
-
-- Post on the _Introductions_ forum
-    - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can refer back to it.
-
-- Lab #1 discussion, on Canvas
-
 ------
 
 # Library Spaces
-
-*Are we ahead of schedule? A bit from next week...*
 
 ----
 
@@ -327,3 +332,14 @@ Temporary Tree House Gallery in Regent's Park
 - [How do Americans use Libraries](http://www.pewinternet.org/2016/09/09/libraries-2016/)
 - [ALA Public Library Factsheet](http://www.ala.org/tools/libfactsheets/alalibraryfactsheet06)
 -------
+
+# Next Week
+
+- Two optional preference surveys, on Canvas.
+    - Topics for marketing proposal group project
+    - Volunteer for week 6 deadline for information literacy instruction assignment
+
+- Lab #1 discussion, on Canvas
+
+- Post on the _Introductions_ forum
+    - _Introduce myself again?_ - This is for the benefit of myself and your classmates - we can refer back to it. This is optional, but is _one_ way to contribute toward your participation grade
