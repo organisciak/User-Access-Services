@@ -16,12 +16,14 @@
 
 ## Announcements?
 
+>- Showcase of Opportunities - this Friday
 >- Student group officer positions
 >- Digital Scholarship in the Front Range - [Sept 25 Meetup](https://digitalfrontrange.wordpress.com/sept-25-meet-up-cu-denver/)
     >- Dr. O shared the link to the mailing list on Libschool
 >- Robert McDonald, Dean of CU Libraries, Oct 26th - 2:00pm
->- RMIS writing group - Every wednesday
+>- RMIS writing group - Every Wednesday 1-4
 >- RMIS Slack - [https://rmis-du.slack.com](https://rmis-du.slack.com)
+>- Philosophy Discussion Group
 
 --------
 
