@@ -660,17 +660,21 @@ Hadley
 
 # Access Services
 
-- Traditional library roles - connecting people to materials
-- Access services deal with ... _access_
-     - circulation, signage, interlibrary loan
-- Links to technical services beyond the desk - the behind the scenes work to improve access to materials; e.g. acquisitions, subscriptions
+Traditional library roles - connecting people to materials
+
+- circulation
+- interlibrary loan
+- signage
+- shelving, signage
 
 -----
 
 ## Technical services
 
-- Overview of technical services: acquisitions, cataloging, and collections management
-- Copy cataloguing vs. original cataloguing
+The beyond the desk work to improve access to materials; e.g. acquisitions, subscriptions
+
+- Acquisitions
+- Cataloguing
 - Classification
 - Subject access
 - Authority control and linked open data
