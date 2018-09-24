@@ -637,6 +637,7 @@ In small groups:
 - Philosophy mini-course from Jordan
 - Online class
 - Crimson Classic - 2.6mi run, next Thursday at 3
+- [Denver Startup Week](https://www.denverstartupweek.org/)
 
 ------
 
@@ -651,6 +652,10 @@ In small groups:
 ![Hadley](images/hadley1.jpg){ height=500px }
 
 Hadley
+
+-----
+
+## Lab \#3
 
 -----
 
