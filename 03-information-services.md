@@ -1,18 +1,20 @@
 % Information services
 % Peter Organisciak
-% Fall 2017
+% Fall 2018
 
-## Administration
+# Administration
 
 >- Did everybody access the readings okay?
 >- Field trip
->- Zotero
->- Question policy
 >- Cool stuff?
 
 ------
 
 ## Announcements?
+
+- Philosophy mini-course from Jordan
+- Online class
+- Crimson Classic - 2.6mi run, next Thursday at 3
 
 ------
 
@@ -22,11 +24,28 @@
 
 -----
 
+## Pet Pics
+
+![Hadley](images/hadley1.jpg){ height=500px }
+
+Hadley
+
+-----
+
 # Last Week wrap up
 
 ------
 
-## Library services
+# Access Services
+
+- Traditional library roles - connecting people to materials
+- Access services deal with ... _access_
+     - circulation, signage, interlibrary loan
+- Links to technical services beyond the desk - the behind the scenes work to improve access to materials; e.g. acquisitions, subscriptions
+
+-----
+
+## Technical services
 
 - Overview of technical services: acquisitions, cataloging, and collections management
 - Copy cataloguing vs. original cataloguing
@@ -36,6 +55,10 @@
 - Metadata standards
 
 ------
+
+_What types of materials or documents do libraries provide access to?_
+
+-----
 
 ## Acquisitions
 
@@ -56,7 +79,68 @@
 
 - Acquisitions Librarian - de-professionalizing (Helfer and Heinrich 2010)
 
+------
+
+## Interlibrary Loan
+
+- Service for requesting materials from other libraries
+- Expands the effective size of collection that a user has access to
+- started early 20th century and grew in the ensuing decades
+
+----
+
+What are the problems with ILL?
+
+>- For users
+>     - speed and time
+>     - occasional cost-sharing (e.g. photocopying)
+>     - effort requesting
+>- For libraries
+>     - significant cost and effort
+>          - Evans et al quote two libraries at \$28 and \$45/book
+
+------
+
+## Effort for ILL
+
+- hardware/software, licensing
+- record-keeping, planning (working with materials beyond your regular system)
+- searching, picking, shipping
+
 -----
+
+## On-demand materials
+
+>- Document delivery: order materials for a fee - digitized or shipped
+>     - Sometimes delivered straight to users, particularly for special circumstances (e.g. rural patrons) or special materials (e.g. Braille books)
+>- Twist on ILL: centralized sharing facilities
+>- User-request acquisitions
+>- Reciprocal borrowing: allowing members to 'cross' lines
+>     - _When would this be useful? What types of libraries?_
+
+------
+
+_We'll return to technical services shortly. However, let's consider different types of libraries and library needs first._
+
+-----
+
+# Types of Libraries
+
+-----
+
+- What is distinct about your type of library?
+- Who does your library serve? What roles do librarians play?
+- What types of libraries are similar?
+- Can you think of examples of the library? How you been to one?
+- How common is your library?
+- Who funds the library type?
+- What facts surprised you from the reading? What outstanding questions does the article not answer?
+
+-------
+
+# Technical Services - cont.
+
+----
 
 ## Cataloguing
 
@@ -167,17 +251,5 @@ LCSH and LCC in context: [LOC online catalog](https://catalog.loc.gov/)
 -------------
 
 - Where does FRBR over-simplify? Where might it be inadequate?
-
--------
-
-# Types of Libraries
-
-- What is distinct about your type of library?
-- Who does your library serve? What roles do librarians play?
-- What types of libraries are similar?
-- Can you think of examples of the library? How you been to one?
-- How common is your library?
-- Who funds the library type?
-- What facts surprised you from the reading? What outstanding questions does the article not answer?
 
 -------
