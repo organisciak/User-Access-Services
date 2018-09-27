@@ -48,7 +48,7 @@ Traditional library roles - connecting people to materials
 - circulation
 - interlibrary loan
 - signage
-- shelving, signage
+- shelving
 
 -----
 
