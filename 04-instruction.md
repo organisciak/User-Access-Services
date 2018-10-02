@@ -29,6 +29,7 @@ Today
 ## Administration
 
 - Lab #1 and #2 - Follow-up
+- Other types of libraries
 - Bibliography
 - Looking ahead: Instruction Assignment 
 - Early submission policy: If you submit early, I may grade it - but feel free to re-submit if you like and I'll re-grade!
@@ -67,19 +68,28 @@ _Transliteracy_: "ability to read, write, and interact across a range of platfor
 
 ------
 
-The Seven Pillars of Information Literacy.
+**The Seven Pillars of Information Literacy**
 
-_What's missing? How do these skills develop?_
+_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
 
-1. The ability to recognize a need for information.
-2. The ability to distinguish ways in which the information “gap” may be addressed.
-3. The ability to construct strategies for locating information.
-4. The ability to locate and access information.
-5. The ability to compare and evaluate information obtained from different sources.
-6. The ability to organize, apply, and communicate information to others in appropriate ways.
-7.The ability to synthesize and build upon existing information, contributing to the creation of new knowledge.
+The ability to:
 
-(http://www.sconul.ac.uk/groups/information_literacy/headline_skills.html updated February 2008).
+>- recognize a need for information.
+>- distinguish ways in which the information “gap” may be addressed.
+>- construct strategies for locating information.
+>- locate and access information.
+
+------
+
+**The Seven Pillars of Information Literacy**
+
+_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
+
+The ability to:
+
+>- compare and evaluate information obtained from different sources.
+>- organize, apply, and communicate information to others in appropriate ways.
+>- synthesize and build upon existing information, contributing to the creation of new knowledge.
 
 -------
 
@@ -96,9 +106,8 @@ _What's missing? How do these skills develop?_
 
 _What are the downsides to one-shot instruction? What are the upsides?_
 
---------
 
-- more realistic for scheduling
+>- more realistic for scheduling
 >- desire to cram as much information in <- less effective way of learning
 
 -------
