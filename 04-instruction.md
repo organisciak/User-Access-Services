@@ -31,7 +31,7 @@ Today
 - Lab #1 and #2 - Follow-up
 - Other types of libraries
 - Bibliography
-- Looking ahead: Instruction Assignment 
+- Looking ahead: Instruction Assignment
 - Early submission policy: If you submit early, I may grade it - but feel free to re-submit if you like and I'll re-grade!
 - concerns?
 
@@ -44,13 +44,21 @@ Today
 - teaching information literacy
 - active learning as a technique
 
+<!--
+
 -------
 
 "Being able to effectively locate, evaluate, and apply information to meet a need is the foundation of lifelong learning" - Evans, p.71
 
-------
+----
+
+-->
+
+<!--
 
 >"Give a man some information, feed their information need for a session. Teach a man information literacy, feed their need for a lifetime (or, at least a few years)" - Old Librarian Proverb
+
+-->
 
 -----
 
@@ -90,6 +98,18 @@ The ability to:
 >- compare and evaluate information obtained from different sources.
 >- organize, apply, and communicate information to others in appropriate ways.
 >- synthesize and build upon existing information, contributing to the creation of new knowledge.
+
+------
+
+- recognize, strategize, locate, compare, organize, synthesize
+
+-------
+
+![Ellis](images/ellis1.png){class="plain"}
+
+-------
+
+![Wilson's General Model (1996, via Wilson 1999)](images/wilson96.png){class="plain"}
 
 -------
 
@@ -141,12 +161,13 @@ via [Cornell Center for Teaching Innovation](https://www.cte.cornell.edu/teachin
 >- think-pair-share: short partner discussions in class
 >- problem- or case-based research projects
 >- case studies
->- collaborative note taking
+>- collaborative note taking: take notes and compare
 >- statement correction
 >- quizzes and assessment
 >- give time to think
 >- preview and review
 >- teaching material to a peer
+>- minute-paper
 
 -------
 
