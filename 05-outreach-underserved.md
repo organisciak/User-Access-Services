@@ -6,7 +6,17 @@
 
 # Administration
 
-- Announcements?
+- Talking Book Library Trip
+  - Oct 19th – all day
+  - Oct 26th – 3 pm
+  - Nov 16th - 2:30 or 3
+- Instruction Assignment - Due Next Week
+- Marketing Proposal - Due in Two Weeks
+  - Deadline: Canvas had dates backwards
+
+----------
+
+## Announcements?
 
 -------
 
@@ -81,7 +91,7 @@ _What challenges may limit the access to services for these users?_
 
 ------
 
-## Traditionally Under-served populations
+## Traditionally under-served populations
 
 
 - poor, homeless, hungry
@@ -100,7 +110,6 @@ _What challenges may limit the access to services for these users?_
 ### Worksheet
 
 First column - note challenges for the user population
-
 
 --------
 
