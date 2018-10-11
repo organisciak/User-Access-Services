@@ -7,9 +7,7 @@
 # Administration
 
 - Talking Book Library Trip
-  - Oct 19th – all day
-  - Oct 26th – 3 pm
-  - Nov 16th - 2:30 or 3
+  - Oct 19th – 10am - SLA will send out a poll
 - Instruction Assignment - Due Next Week
 - Marketing Proposal - Due in Two Weeks
   - Deadline: Canvas had dates backwards
@@ -128,10 +126,6 @@ Considering your solutions:
 
 -------
 
-![Little Free Library](images/lfl.jpg)
-
--------
-
 ## Persons of Color and LGBT populations
 
 _Idea time! How might we serve systematically underrepresented or discriminated populations?_
@@ -213,6 +207,10 @@ Discuss in new groups what types of themes we're seeing across our solutions.
 >- bookmobiles
 >- little free libraries
 >- Wheelie the Book Bike
+
+------
+
+![Little Free Library](images/lfl.jpg)
 
 ---------
 

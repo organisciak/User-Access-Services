@@ -1,267 +1,203 @@
-% Information services
+% Information Literacy Instruction
 % Peter Organisciak
-% Fall 2018
+% October 2018
 
-# Administration
+-----
 
->- Did everybody access the readings okay?
->- Field trip
->- Cool stuff?
+Today
 
-------
+- Information literacy instruction: guest lecture from Bridget Farrell, Coordinator of Library Instruction and Reference Services, University of Denver Libraries
+- User Profiles
+- Technical Services Cont.
 
-## Announcements?
+-----
 
-- Philosophy mini-course from Jordan
-- Online class
-- Crimson Classic - 2.6mi run, next Thursday at 3
-- [Denver Startup Week](https://www.denverstartupweek.org/)
-
-------
-
-## Kiki Watch
-
-![](images/kiki4.jpg)
+![Kiki Watch](images/kiki5.jpg){height=500px}
 
 -----
 
 ## Pet Pics
 
-![Hadley](images/hadley1.jpg){ height=500px }
-
-Hadley
+![Shilling and Pilot](images/shilling1.jpg){height=500px}
 
 -----
 
-## Lab \#3
+## Announcements?
 
 -----
 
-# Last Week wrap up
+## Administration
 
-------
+- Lab #1 and #2 - Follow-up
+- Other types of libraries
+- Bibliography
+- Looking ahead: Instruction Assignment
+- Early submission policy: If you submit early, I may grade it - but feel free to re-submit if you like and I'll re-grade!
+- concerns?
 
-# Access Services
-
-Traditional library roles - connecting people to materials
-
-- circulation
-- interlibrary loan
-- signage
-- shelving
 
 -----
 
-## Technical services
+## Information Literacy instruction
 
-The beyond the desk work to improve access to materials; e.g. acquisitions, subscriptions
+- defining information literacy
+- teaching information literacy
+- active learning as a technique
 
-- Acquisitions
-- Cataloguing
-- Classification
-- Subject access
-- Authority control and linked open data
-- Metadata standards
-
-------
-
-_What types of materials or documents do libraries provide access to?_
-
------
-
-## Acquisitions
-
-- Moving to subscriptions and consortial access
-
-- Varies greatly by library types
-  - special libraries: going deep in a narrow area
-  - academic libraries: monographs, serials / journals, faculty requests
-
-------
-
-## Acquisitions
-
-- bibliographer recommendations
-- trade publications
-- working with intermediary vendors (Baker and Taylor, YBP, Blackwell)
-    - library specifies material needs, and vendor automatically buys and ships materials
-
-- Acquisitions Librarian - de-professionalizing (Helfer and Heinrich 2010)
-
-------
-
-## Interlibrary Loan
-
-- Service for requesting materials from other libraries
-- Expands the effective size of collection that a user has access to
-- started early 20th century and grew in the ensuing decades
-
-----
-
-What are the problems with ILL?
-
->- For users
->     - speed and time
->     - occasional cost-sharing (e.g. photocopying)
->     - effort requesting
->- For libraries
->     - significant cost and effort
->          - Evans et al quote two libraries at \$28 and \$45/book
-
-------
-
-## Effort for ILL
-
-- hardware/software, licensing
-- record-keeping, planning (working with materials beyond your regular system)
-- searching, picking, shipping
-
------
-
-## On-demand materials
-
->- Document delivery: order materials for a fee - digitized or shipped
->     - Sometimes delivered straight to users, particularly for special circumstances (e.g. rural patrons) or special materials (e.g. Braille books)
->- Twist on ILL: centralized sharing facilities
->- User-request acquisitions
->- Reciprocal borrowing: allowing members to 'cross' lines
->     - _When would this be useful? What types of libraries?_
-
-------
-
-_We'll return to technical services shortly. However, let's consider different types of libraries and library needs first._
-
------
-
-# Types of Libraries
-
------
-
-- What is distinct about your type of library?
-- Who does your library serve? What roles do librarians play?
-- What types of libraries are similar?
-- Can you think of examples of the library? How you been to one?
-- How common is your library?
-- Who funds the library type?
-- What facts surprised you from the reading? What outstanding questions does the article not answer?
+<!--
 
 -------
 
-# Technical Services - cont.
+"Being able to effectively locate, evaluate, and apply information to meet a need is the foundation of lifelong learning" - Evans, p.71
 
 ----
 
-## Cataloguing
+-->
 
-- describing materials for collection access, after acquisition
+<!--
 
-- Guidelines:
-   - Anglo-American Cataloging Rules (AACR) - 1967, AACR2 1988
-   - Resource Description and Access (RDA)
+>"Give a man some information, feed their information need for a session. Teach a man information literacy, feed their need for a lifetime (or, at least a few years)" - Old Librarian Proverb
 
-------
-
-- original cataloguing: creating a record from scratch
-- copy cataloguing: starting with information from elsewhere
-
---------
-
-# Vocabulary
-
-From ODLIS (Online Dictionary of Library and Information Science):
-
--_bibliographic record_
-An entry representing a specific item in a library catalog or bibliographic database, containing all the data elements necessary for a full description, presented in a specific bibliographic format.
+-->
 
 -----
 
-- Metadata: data about data (information about something)
-- ODLIS: "Structured information describing information resources/objects for a variety of purposes."
+## Information literacy
 
---------
+to "be able to recognize when information is needed and have the ability to locate, evaluate, and use effectively the needed information." - ALA 1989
 
-- three parts to cataloguing record: description, subject access and classification, and authority control
+_Transliteracy_: "ability to read, write, and interact across a range of platforms, tools, and media"
 
---------
-
-## Subject access and classification
-
-- subject analysis: what are the materials about?
-  - uses a controlled vocabulary, like Library of Congress Subject Headings (LCSH), and Medical Subject Headings (MeSH)
-
-- classification: assigning a call number in a classification scheme, like Library of Congress (LCC), Dewey Decimal (DDC), or Universal Decimal System (UDC)
+- increasingly thought of as a mix of literacies
 
 ------
 
-## Library of Congress Subject Headings (LCSH)
+[ACRL Information Literacy Resources](http://acrl.libguides.com/slilc/home)
 
-<http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First>
+------
 
-LCSH and LCC in context: [LOC online catalog](https://catalog.loc.gov/)
+**The Seven Pillars of Information Literacy**
+
+_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
+
+The ability to:
+
+>- recognize a need for information.
+>- distinguish ways in which the information “gap” may be addressed.
+>- construct strategies for locating information.
+>- locate and access information.
+
+------
+
+**The Seven Pillars of Information Literacy**
+
+_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
+
+The ability to:
+
+>- compare and evaluate information obtained from different sources.
+>- organize, apply, and communicate information to others in appropriate ways.
+>- synthesize and build upon existing information, contributing to the creation of new knowledge.
+
+------
+
+- recognize, strategize, locate, compare, organize, synthesize
+
+-------
+
+![Ellis](images/ellis1.png){class="plain"}
+
+-------
+
+![Wilson's General Model (1996, via Wilson 1999)](images/wilson96.png){class="plain"}
+
+-------
+
+## Types of instruction
+
+- formal instruction
+    - e.g. tours and orientation; workshops on technology, searching skills, research skills
+- informal
+    - _remember that all interactions can be instructional!_ - it doesn't need to be designed as such
+
+---------------------
+
+### One-shot instruction: single session
+
+_What are the downsides to one-shot instruction? What are the upsides?_
+
+
+>- more realistic for scheduling
+>- desire to cram as much information in <- less effective way of learning
+
+-------
+
+### course-integrated instruction
+
+>- just-in-time librarianship
+>- more effective learning
+>- complicated logistics
+
+-------
+
+## Active Learning
+
+Learning by participating in the process of learning - rather than sitting, listening, and memorizing
+
+- "anything that involves students in doing things and thinking about the things they are doing" (Bonwell & Eison, 1991).
+
+- "anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes" (Felder & Brent (2009)
+
+-------
+
+### Benefits and Approaches
+
+via [Cornell Center for Teaching Innovation](https://www.cte.cornell.edu/teaching-ideas/engaging-students/active-learning.html), [Stanford Teaching Commons](https://teachingcommons.stanford.edu/resources/teaching-resources/teaching-strategies), [Harvard Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/active-learning)
 
 ----------
 
-## Authority control
+### Approaches
 
-- disambiguating strings from entities: connecting metadata to a central 'authority'
-
->- grouping authors with name variants, pseudonyms
->- Multiple versions of a work (translations, international version)
->- disentangling name matches
->- ISBN numbers, OCLC numbers
-
-----
-
-## Shared bibliographic databases
-
-- [OCLC](https://www.oclc.org/en/home.html)
-    - [WorldCat](https://www.worldcat.org/)
+>- think-pair-share: short partner discussions in class
+>- problem- or case-based research projects
+>- case studies
+>- collaborative note taking: take notes and compare
+>- statement correction
+>- quizzes and assessment
+>- give time to think
+>- preview and review
+>- teaching material to a peer
+>- minute-paper
 
 -------
 
-## VIAF
+### Benefits
 
-- [Virtual International Authority File (VIAF)](https://viaf.org/)
+>- in lectures, attention starts to wane after 10-20 minutes
+>- instructor is more sensitive to where students are, necessary corrections
+>- addresses personal learning styles, allows for personal connections to materials
 
 ---------
 
-## LOD: Linked Open Data
+## Planning Process
 
-- [DBPedia](http://dbpedia.org/page/Annot_(artist))
-    - [SPARQL Search](https://goo.gl/F5Txbs)
-- Freebase
-- [LinkedMDB](http://data.linkedmdb.org/page/film/2014)
-- New York Times - [Semantics API](https://github.com/NYTimes/public_api_specs/blob/master/semantic_api/semantic_api.md)
+via Grassian and Kaplowitz (2009), ELIS
 
+- recognize the need
+- describe and analyze the situation
+    - perform a needs assessment
+- developing goals and learning outcomes
+    - write from the learner's perspective
+- develop materials
+- deliver
+- assess and revise
+    - Do they like it? Do they get it? Can they do it? Does it matter?
 
--------
+--------
 
-![](images/LOD_Cloud_2014.svg.png)
+# Next Week
 
-----------------------
-
-## Metadata standards
-
-- MARC
-- [Dublin Core](http://dublincore.org/documents/dcmi-terms/)
-- METS (Metadata encoding and transmission standard)
-
-----------
-
-## FRBR (Functional Requirements for Bibliographic Records)
-
-- Model for representing entities and relationships between works, as well as people
-- RDA is the cataloguing standard based on this model
-
------
-
-![FRBR Group 1](images/FRBR-1.png)
-
--------------
-
-- Where does FRBR over-simplify? Where might it be inadequate?
-
--------
+- Annotated bibliographies are due!
 -----
 % Shushing 101
 % Peter Organisciak
@@ -885,206 +821,270 @@ In small groups:
 
 - Lab #2 will be in class. Read your reading!
 -----
-% Information Literacy Instruction
+% Information services
 % Peter Organisciak
-% October 2018
+% Fall 2018
 
------
+# Administration
 
-Today
+>- Did everybody access the readings okay?
+>- Field trip
+>- Cool stuff?
 
-- Information literacy instruction: guest lecture from Bridget Farrell, Coordinator of Library Instruction and Reference Services, University of Denver Libraries
-- User Profiles
-- Technical Services Cont.
+------
 
------
+## Announcements?
 
-![Kiki Watch](images/kiki5.jpg){height=500px}
+- Philosophy mini-course from Jordan
+- Online class
+- Crimson Classic - 2.6mi run, next Thursday at 3
+- [Denver Startup Week](https://www.denverstartupweek.org/)
+
+------
+
+## Kiki Watch
+
+![](images/kiki4.jpg)
 
 -----
 
 ## Pet Pics
 
-![Shilling and Pilot](images/shilling1.jpg){height=500px}
+![Hadley](images/hadley1.jpg){ height=500px }
+
+Hadley
 
 -----
 
-## Announcements?
+## Lab \#3
 
 -----
 
-## Administration
+# Last Week wrap up
 
-- Lab #1 and #2 - Follow-up
-- Other types of libraries
-- Bibliography
-- Looking ahead: Instruction Assignment
-- Early submission policy: If you submit early, I may grade it - but feel free to re-submit if you like and I'll re-grade!
-- concerns?
+------
 
+# Access Services
+
+Traditional library roles - connecting people to materials
+
+- circulation
+- interlibrary loan
+- signage
+- shelving
 
 -----
 
-## Information Literacy instruction
+## Technical services
 
-- defining information literacy
-- teaching information literacy
-- active learning as a technique
+The beyond the desk work to improve access to materials; e.g. acquisitions, subscriptions
 
-<!--
+- Acquisitions
+- Cataloguing
+- Classification
+- Subject access
+- Authority control and linked open data
+- Metadata standards
 
--------
+------
 
-"Being able to effectively locate, evaluate, and apply information to meet a need is the foundation of lifelong learning" - Evans, p.71
+_What types of materials or documents do libraries provide access to?_
+
+-----
+
+## Acquisitions
+
+- Moving to subscriptions and consortial access
+
+- Varies greatly by library types
+  - special libraries: going deep in a narrow area
+  - academic libraries: monographs, serials / journals, faculty requests
+
+------
+
+## Acquisitions
+
+- bibliographer recommendations
+- trade publications
+- working with intermediary vendors (Baker and Taylor, YBP, Blackwell)
+    - library specifies material needs, and vendor automatically buys and ships materials
+
+- Acquisitions Librarian - de-professionalizing (Helfer and Heinrich 2010)
+
+------
+
+## Interlibrary Loan
+
+- Service for requesting materials from other libraries
+- Expands the effective size of collection that a user has access to
+- started early 20th century and grew in the ensuing decades
 
 ----
 
--->
+What are the problems with ILL?
 
-<!--
+>- For users
+>     - speed and time
+>     - occasional cost-sharing (e.g. photocopying)
+>     - effort requesting
+>- For libraries
+>     - significant cost and effort
+>          - Evans et al quote two libraries at \$28 and \$45/book
 
->"Give a man some information, feed their information need for a session. Teach a man information literacy, feed their need for a lifetime (or, at least a few years)" - Old Librarian Proverb
+------
 
--->
+## Effort for ILL
+
+- hardware/software, licensing
+- record-keeping, planning (working with materials beyond your regular system)
+- searching, picking, shipping
 
 -----
 
-## Information literacy
+## On-demand materials
 
-to "be able to recognize when information is needed and have the ability to locate, evaluate, and use effectively the needed information." - ALA 1989
-
-_Transliteracy_: "ability to read, write, and interact across a range of platforms, tools, and media"
-
-- increasingly thought of as a mix of literacies
-
-------
-
-[ACRL Information Literacy Resources](http://acrl.libguides.com/slilc/home)
+>- Document delivery: order materials for a fee - digitized or shipped
+>     - Sometimes delivered straight to users, particularly for special circumstances (e.g. rural patrons) or special materials (e.g. Braille books)
+>- Twist on ILL: centralized sharing facilities
+>- User-request acquisitions
+>- Reciprocal borrowing: allowing members to 'cross' lines
+>     - _When would this be useful? What types of libraries?_
 
 ------
 
-**The Seven Pillars of Information Literacy**
+_We'll return to technical services shortly. However, let's consider different types of libraries and library needs first._
 
-_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
+-----
 
-The ability to:
+# Types of Libraries
 
->- recognize a need for information.
->- distinguish ways in which the information “gap” may be addressed.
->- construct strategies for locating information.
->- locate and access information.
+-----
+
+- What is distinct about your type of library?
+- Who does your library serve? What roles do librarians play?
+- What types of libraries are similar?
+- Can you think of examples of the library? How you been to one?
+- How common is your library?
+- Who funds the library type?
+- What facts surprised you from the reading? What outstanding questions does the article not answer?
+
+-------
+
+# Technical Services - cont.
+
+----
+
+## Cataloguing
+
+- describing materials for collection access, after acquisition
+
+- Guidelines:
+   - Anglo-American Cataloging Rules (AACR) - 1967, AACR2 1988
+   - Resource Description and Access (RDA)
 
 ------
 
-**The Seven Pillars of Information Literacy**
-
-_[SCONUL - Society of College, National and University Libraries (UK, updated 2011)](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)_
-
-The ability to:
-
->- compare and evaluate information obtained from different sources.
->- organize, apply, and communicate information to others in appropriate ways.
->- synthesize and build upon existing information, contributing to the creation of new knowledge.
-
-------
-
-- recognize, strategize, locate, compare, organize, synthesize
-
--------
-
-![Ellis](images/ellis1.png){class="plain"}
-
--------
-
-![Wilson's General Model (1996, via Wilson 1999)](images/wilson96.png){class="plain"}
-
--------
-
-## Types of instruction
-
-- formal instruction
-    - e.g. tours and orientation; workshops on technology, searching skills, research skills
-- informal
-    - _remember that all interactions can be instructional!_ - it doesn't need to be designed as such
-
----------------------
-
-### One-shot instruction: single session
-
-_What are the downsides to one-shot instruction? What are the upsides?_
-
-
->- more realistic for scheduling
->- desire to cram as much information in <- less effective way of learning
-
--------
-
-### course-integrated instruction
-
->- just-in-time librarianship
->- more effective learning
->- complicated logistics
-
--------
-
-## Active Learning
-
-Learning by participating in the process of learning - rather than sitting, listening, and memorizing
-
-- "anything that involves students in doing things and thinking about the things they are doing" (Bonwell & Eison, 1991).
-
-- "anything course-related that all students in a class session are called upon to do other than simply watching, listening and taking notes" (Felder & Brent (2009)
-
--------
-
-### Benefits and Approaches
-
-via [Cornell Center for Teaching Innovation](https://www.cte.cornell.edu/teaching-ideas/engaging-students/active-learning.html), [Stanford Teaching Commons](https://teachingcommons.stanford.edu/resources/teaching-resources/teaching-strategies), [Harvard Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/active-learning)
-
-----------
-
-### Approaches
-
->- think-pair-share: short partner discussions in class
->- problem- or case-based research projects
->- case studies
->- collaborative note taking: take notes and compare
->- statement correction
->- quizzes and assessment
->- give time to think
->- preview and review
->- teaching material to a peer
->- minute-paper
-
--------
-
-### Benefits
-
->- in lectures, attention starts to wane after 10-20 minutes
->- instructor is more sensitive to where students are, necessary corrections
->- addresses personal learning styles, allows for personal connections to materials
-
----------
-
-## Planning Process
-
-via Grassian and Kaplowitz (2009), ELIS
-
-- recognize the need
-- describe and analyze the situation
-    - perform a needs assessment
-- developing goals and learning outcomes
-    - write from the learner's perspective
-- develop materials
-- deliver
-- assess and revise
-    - Do they like it? Do they get it? Can they do it? Does it matter?
+- original cataloguing: creating a record from scratch
+- copy cataloguing: starting with information from elsewhere
 
 --------
 
-# Next Week
+# Vocabulary
 
-- Annotated bibliographies are due!
+From ODLIS (Online Dictionary of Library and Information Science):
+
+-_bibliographic record_
+An entry representing a specific item in a library catalog or bibliographic database, containing all the data elements necessary for a full description, presented in a specific bibliographic format.
+
+-----
+
+- Metadata: data about data (information about something)
+- ODLIS: "Structured information describing information resources/objects for a variety of purposes."
+
+--------
+
+- three parts to cataloguing record: description, subject access and classification, and authority control
+
+--------
+
+## Subject access and classification
+
+- subject analysis: what are the materials about?
+  - uses a controlled vocabulary, like Library of Congress Subject Headings (LCSH), and Medical Subject Headings (MeSH)
+
+- classification: assigning a call number in a classification scheme, like Library of Congress (LCC), Dewey Decimal (DDC), or Universal Decimal System (UDC)
+
+------
+
+## Library of Congress Subject Headings (LCSH)
+
+<http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First>
+
+LCSH and LCC in context: [LOC online catalog](https://catalog.loc.gov/)
+
+----------
+
+## Authority control
+
+- disambiguating strings from entities: connecting metadata to a central 'authority'
+
+>- grouping authors with name variants, pseudonyms
+>- Multiple versions of a work (translations, international version)
+>- disentangling name matches
+>- ISBN numbers, OCLC numbers
+
+----
+
+## Shared bibliographic databases
+
+- [OCLC](https://www.oclc.org/en/home.html)
+    - [WorldCat](https://www.worldcat.org/)
+
+-------
+
+## VIAF
+
+- [Virtual International Authority File (VIAF)](https://viaf.org/)
+
+---------
+
+## LOD: Linked Open Data
+
+- [DBPedia](http://dbpedia.org/page/Annot_(artist))
+    - [SPARQL Search](https://goo.gl/F5Txbs)
+- Freebase
+- [LinkedMDB](http://data.linkedmdb.org/page/film/2014)
+- New York Times - [Semantics API](https://github.com/NYTimes/public_api_specs/blob/master/semantic_api/semantic_api.md)
+
+
+-------
+
+![](images/LOD_Cloud_2014.svg.png)
+
+----------------------
+
+## Metadata standards
+
+- MARC
+- [Dublin Core](http://dublincore.org/documents/dcmi-terms/)
+- METS (Metadata encoding and transmission standard)
+
+----------
+
+## FRBR (Functional Requirements for Bibliographic Records)
+
+- Model for representing entities and relationships between works, as well as people
+- RDA is the cataloguing standard based on this model
+
+-----
+
+![FRBR Group 1](images/FRBR-1.png)
+
+-------------
+
+- Where does FRBR over-simplify? Where might it be inadequate?
+
+-------
 -----
 % Assessment
 % Peter Organisciak
@@ -1296,9 +1296,7 @@ Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http:
 # Administration
 
 - Talking Book Library Trip
-  - Oct 19th – all day
-  - Oct 26th – 3 pm
-  - Nov 16th - 2:30 or 3
+  - Oct 19th – 10am - SLA will send out a poll
 - Instruction Assignment - Due Next Week
 - Marketing Proposal - Due in Two Weeks
   - Deadline: Canvas had dates backwards
@@ -1417,10 +1415,6 @@ Considering your solutions:
 
 -------
 
-![Little Free Library](images/lfl.jpg)
-
--------
-
 ## Persons of Color and LGBT populations
 
 _Idea time! How might we serve systematically underrepresented or discriminated populations?_
@@ -1502,6 +1496,10 @@ Discuss in new groups what types of themes we're seeing across our solutions.
 >- bookmobiles
 >- little free libraries
 >- Wheelie the Book Bike
+
+------
+
+![Little Free Library](images/lfl.jpg)
 
 ---------
 
