@@ -6,7 +6,15 @@
 
 # Administration
 
-- Announcements?
+- Talking Book Library Trip
+  - Oct 19th – 10am - SLA will send out a poll
+- Instruction Assignment - Due Next Week
+- Marketing Proposal - Due in Two Weeks
+  - Deadline: Canvas had dates backwards
+
+----------
+
+## Announcements?
 
 -------
 
@@ -87,7 +95,7 @@ _What challenges may limit the access to services for these users?_
 
 ------
 
-## Traditionally Under-served populations
+## Traditionally under-served populations
 
 
 - poor, homeless, hungry
@@ -107,7 +115,6 @@ _What challenges may limit the access to services for these users?_
 
 First column - note challenges for the user population
 
-
 --------
 
 ### Worksheet
@@ -122,10 +129,6 @@ Considering your solutions:
 
 - What are potential hurdles for the solution?
 - What's the feasibility of the solution?
-
--------
-
-![Little Free Library](images/lfl.jpg)
 
 -------
 
@@ -210,6 +213,10 @@ Discuss in new groups what types of themes we're seeing across our solutions.
 >- bookmobiles
 >- little free libraries
 >- Wheelie the Book Bike
+
+------
+
+![Little Free Library](images/lfl.jpg)
 
 ---------
 
