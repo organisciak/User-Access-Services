@@ -1086,6 +1086,207 @@ via Grassian and Kaplowitz (2009), ELIS
 
 - Annotated bibliographies are due!
 -----
+% Assessment
+% Peter Organisciak
+% Fall 2017
+
+---------------
+
+## Today
+
+- Administration
+- Cataloguing wrap-up
+- Check-in on assignments
+- Assessment
+
+--------
+
+![](images/kiki6.jpg)
+
+-------
+
+## Administration
+
+- announcements?
+- opportunities fair
+    - advice from librarians
+- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
+
+------------
+
+# Assessment
+
+Measuring service needs, impact and quality
+
+- considers whether to _add_, _change_, or _drop_ programs
+
+_Why assessment? How?_
+
+---------
+
+- aligns with goals: libraries _want_ to provide great services
+
+- helps publicize a library's worth to its community, while considering how that value can be maximized
+
+- Communication tool:  "Without data, it’s been said, 'you’re just another guy with an opinion.'" - [Outcome Based Evaluations](https://www.imls.gov/grants/outcome-based-evaluations), IMLS
+
+- Value to _potential_ stakeholders; e.g. IMLS wants to see that their money would be put to good use, and Congress wants to see that IMLS makes an impact
+
+--------
+
+## Types of Assessment
+
+- Needs assessment
+- Impact assessment
+
+Assessment has internal uses (determining if you have the correct services properly provided) and external uses (accountability to library stakeholders)
+
+-----
+
+## Impact assessment: instruction
+
+- Satisfaction: did learners like the setting? The instructor?
+    - Surveys
+- Learning: was the content learned? Can the learner recontextualize it or recall it when needed?
+- Behavior: can the learning be applied?
+
+------
+
+## Tools
+
+- Surveys
+- Interviews
+- Focus groups
+- observation
+- Citation analysis
+- Transaction log analysis
+- Logs, Diaries, and journals
+
+----
+
+## Outcome-based Evaluation
+
+- Drawing a line from _inputs_ to _outputs_, contextualized by goals, users, stakeholders
+
+- _Outcomes_ tied to indicators, sources, and targets
+
+- Example OBE worksheet: [Evaluation Framework, New York State Library](http://www.nysl.nysed.gov/libdev/obe/basic/evl_frm.pdf)
+
+----
+
+__OBE Evaluation Example 1: Columbia County Read Together Program__
+
+Program Purpose: The Columbia County Public Library, Regional High School, Head Start, and Literacy Volunteers cooperate to provide story hours, literacy information, materials, and other resources to increase the time parents and other caretakers spend reading to children.
+
+Intended Outcomes: Adults will read to children more often.
+
+_Indicators:?
+Sources: ?
+Target: ?_
+
+_via [IMLS](https://www.imls.gov/grants/outcome-based-evaluation/basics)_
+
+------
+
+Indicators: Number and percent of parents or other caretakers who read to children 5 times/week or more.
+
+Data Source(s): Participant interviews.
+
+Target for Change: At the end of year one, 75% of participating parents and other caretakers will read to children in their care 5 times per week or more.
+
+------
+
+__OBE Example 2: Museums Are Fun for Everybody__
+
+Program Purpose: The Museum provides a series of workshops about its programs for mothers and 2- to 5-year-olds from the Hills High School parenting program and Cabot Park neighborhood to increase visits by local families and to increase the museum comfort level of mothers who rarely or never visit the museum.
+
+Intended Outcomes: Mothers from Cabot Park and Hills High will feel more comfortable bringing kids to the museum and these families will use the museum more.
+
+_Indicators:?
+Sources: ?
+Target: ?_
+
+_via [IMLS](https://www.imls.gov/grants/outcome-based-evaluation/basics)_
+
+----------
+
+Indicators: (a) The number of participating mothers who report their comfort in bringing kids to the museum increased to at least 4 on a 5-point scale, and (b) the number of Cabot Park and Hills High visitors in Kids' Week 2002.
+
+Data Sources: (a) Questionnaire and phone survey for all mothers who participate in a workshop and (b) random exit interviews of adults who visit the Museum with children during Kids' Week 2001, repeated in Kids' Week 2002
+
+Target: (a) Participants' reported comfort level goes up 75% or more from workshop 1 to 6 weeks after workshop 3 and (b) visits by target families increase from less than 1% in Kids' Week 2001 to 10% in Kids' Week 2002.
+
+-----------
+
+![](images/eval-process.PNG)
+
+Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide to Evaluating your own Programs. Chapel Hill, N.C.: Horizon Research, Inc.
+
+
+---------
+
+- Formative evaluation: assessment during the program
+- Summative evaluation: assessment after the program completes
+
+----------
+
+## Assessment in different library types
+
+- Academic libraries
+    - e.g. information literacy, learning support, technical skills
+- Public libraries
+    - e.g. basic literacy, consumer information, materials access, local history
+- School libraries
+    - e.g. problem-solving, digital skills, test prep
+- Special libraries
+    - return on investment, cost-benefit analysis
+
+(Evans et. al 2015)
+
+----------
+
+## Summary
+
+- what and why: assessment
+- tools
+- formative vs summative evaluation
+- outcome-based evaluation
+
+--------
+
+## Needs assessment
+
+- assessment between three interests:
+    - community needs and culture, in the context of
+    - the organization's mission and goals, tempered by
+    - possibilities (space, time, budget, people)
+
+-----
+
+Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
+
+- Who lives here?
+- What cultures are represented?
+- Are there different languages spoken?
+- What agencies in my local area serve the same audience?
+- What does my county do for the same audience I’m looking to  serve? What about the state level?
+
+-----
+
+Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_)
+
+- Are there elected officials who would be interested to hear of the library’s work with families of young children?
+- What barriers exist within our building to serving young families?
+- Are there barriers in the community that inhibit our growth to serving this population?
+- What are the strengths and weaknesses of my staff?
+
+-----
+
+- census data
+- gate information
+- user surveys
+- [community analysis](https://www.lrs.org/public/ca_form.php)
+-----
 % Outreach; Underserved Populations
 % Peter Organisciak
 % Fall 2018
@@ -1407,20 +1608,27 @@ Overflow - if there's extra time.
 
 ![](images/kiki2.jpg){height=600px}
 
+-----
+
+## Pet Pics
+
+![Lana and Cambria](images/lana-cambria.jpg){height=600px}
+
+-----
+
+![Allie](images/allie.jpg){height=600px}
+
 -------
 
 ## Administration
 
-- announcements?
-- opportunities fair
-    - advice from librarians
 - Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
 
 ---------
 
 ## Announcements
 
-- 
+- Talking Book Library: *this* Friday at 9am.
 
 ------------
 
@@ -1457,7 +1665,7 @@ Assessment has internal uses (determining if you have the correct services prope
 
 - Satisfaction: did learners like the setting? The instructor?
     - Surveys
-- Learning: was the content learned? Can the learner recontextualize it or recall it when needed?
+- Learning: was the content learned? Can the learner re-contextualize it or recall it when needed?
 - Behavior: can the learning be applied?
 
 ------
@@ -1596,4 +1804,152 @@ Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http:
 - gate information
 - user surveys
 - [community analysis](https://www.lrs.org/public/ca_form.php)
+-----
+% Different Population Groups
+% Peter Organisciak
+% Fall 2017
+
+----
+
+## Today
+
+- presentations
+- discussion of different types of groups
+- Accessibility
+- services for blind and physically disabled
+
+-----
+
+![](images/kiki9.jpg)
+
+------
+
+![](images/1295287513-clever-girl.jpg)
+
+------
+
+## Administration
+
+- announcements?
+
+------
+
+# Accessibility
+
+-----
+
+## Low-mobility, home-bound
+
+>- building accessibility - elevator, automatic doors, braille signs, etc.
+>- book delivery, book by mail
+>- deposit collections
+>- virtual reference
+
+------
+
+## Technology problems
+
+What are the ways that we interface with technology in libraries?
+
+------
+
+>- mouse
+>- keyboard
+>- screen (high-density, low-density)
+>- touchscreens
+>- speakers
+>- game controllers
+
+--------------
+
+>- switches, large mice, large trackballs, joybox
+>- color correction
+>- screen-reading software
+>- voice-to-text
+>- smart pens
+>- captioning, descriptive text
+>- eye-tracking
+
+-------
+
+![](images/keyboard.png)
+
+-----
+
+![](images/trackpad.jpg)
+
+-----------
+
+>- density scaling, magnification
+>- stickykeys, filterkeys
+>- extra large mouse pointers
+>- high-contrast screen modes
+
+-------
+
+![VizWiz](images/vizwiz.png)
+
+-------
+
+![Switches](images/switches.png)
+
+https://www.ablenetinc.com/technology/switches
+
+-------
+
+## Other web issues
+
+- inaccessible text (e.g. in images)
+- no alt text on images
+- inaccessible or untested web design
+
+-----
+
+- complete a task using touch-to-text
+- If you wear glasses, trying to use your phone or computer without them (at arm's length if near-sighted, close up if far-sighted). See if any accessibility settings make it easier to read the news.
+- Try to watch a Youtube video muted, with automatic captioning. How effective are the captions? Try to find a movie scene where you're familiar with the dialogue.
+- Put on mittens and try to read a magazine. Go to the table of contents, find an article that looks interesting, then flip to that page.
+
+----
+-----
+% The Present and Future of Services 1
+% Peter Organisciak
+% November 6, 2017
+
+---------
+
+## Today
+
+- Presentations
+- The Present and Future of Services - Part 1
+
+------
+
+![](images/kiki10.jpg)
+
+-------
+
+## Administration
+
+- Announcements?
+- class trip to the Talking Book Library
+- RMIS happy hour - Nov 17, 6pm, Fermaentra
+
+-------
+
+- bilingual librarianship
+- "Library-View"
+- Don't leave behind older adults and rural users - we're still in a transition to digital
+    - also: population is aging!
+- more support for software that helps people with disabilities
+- improved algorithmic knowledge extraction, text entailment, etc. (e.g. Watson)
+- evolutions of libraries as space
+- automatic checkouts
+- "mini libraries" - library vending machines
+- robots, VR: more hardware
+- gamification; digital badges
+
+<div class="notes">
+Lab #5 Notes
+</div>
 -----
