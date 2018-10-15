@@ -73,6 +73,12 @@ Euphemism for community engagement, marketing
 
 ------
 
+Karl Popper - _paradox of intolerance_ (1945)
+
+> Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.
+
+------
+
 _What challenges may limit the access to services for these users?_
 
 - hostile environments
