@@ -7,7 +7,7 @@
 ## Today
 
 - Administration
-- (Outreach)
+- Outreach Wrap-Up
 - Services for the Blind and Physically Handicapped
 - Assessment
 
@@ -19,7 +19,7 @@
 
 ## Pet Pics
 
-![Lana and Cambria](images/lana-cambria.jpg){height=500px}
+![Lana and Cambria](images/lana-cambria.jpg){height=400px}
 
 -----
 
@@ -39,14 +39,13 @@
 - RMSLA mini-conference: also this Friday
 - Dean of CU Libraries talk: Oct 26
 - Mentor For A Moment: Nov 6
+- Writing Group: Wednesdays 1-4pm
+- MCE Researching New Heights - Saturday 10am, Boulder (Meet Kiki!)
+    - See [Facebook](https://www.facebook.com/groups/1751676235087215) for people offering to carpool.
 
 ------------
 
 # Services for Blind and Physically-Handicapped Users
-
-<div class="notes">
-Overflow - if there's extra time.
-</div>
 
 ------
 
@@ -155,6 +154,13 @@ Assessment has internal uses (determining if you have the correct services prope
 - _Outcomes_ tied to indicators, sources, and targets
 
 - Example OBE worksheet: [Evaluation Framework, New York State Library](http://www.nysl.nysed.gov/libdev/obe/basic/evl_frm.pdf)
+
+------
+
+## Outcomes
+
+- Outcomes are measureable, direct, and clear
+- They seek to measure *change* - in behaviour, skills, knowledge, attitudes
 
 ----
 
