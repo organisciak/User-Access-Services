@@ -29,7 +29,7 @@
 
 ## Administration
 
-- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
+- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/68957/pages/related-courses)
 
 ---------
 

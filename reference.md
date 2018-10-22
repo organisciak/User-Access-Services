@@ -1364,7 +1364,7 @@ How do we serve 'non-users'?
 
 ## Administration
 
-- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/53021/pages/related-courses)
+- Upcoming class registration: [choose your own adventure](https://canvas.du.edu/courses/68957/pages/related-courses)
 
 ---------
 
@@ -1577,7 +1577,7 @@ Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide 
 - outcome-based evaluation
 -----
 % Reference
-% Peter Organisciak and Clara Sitter
+% Peter Organisciak
 % Fall 2018
 
 --------
@@ -1589,7 +1589,20 @@ Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide 
 ## Administration
 
 - Check-in
-- Announcements
+    - How are you doing? Please come by: http://organisciak.youcanbook.me
+
+--------
+
+![The Brothers Karamazov](images/brothers-karamazov.jpg)
+    
+--------
+
+## Announcements
+
+- Dean of CU Libraries talk: Oct 26
+     - Collaborating for Student Success - Robert McDonald
+- Mentor For A Moment: Nov 6
+- Writing Group: Wednesdays 1-4pm
 
 -----------
 
@@ -1598,17 +1611,21 @@ Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide 
 - Needs assessment
 - Program plan
 - Reference services
-- Marketing proposal
-- User profiles and instruction response
 
 --------
 
-## Needs assessment
+# Needs assessment
 
 - assessment between three interests:
     - community needs and culture, in the context of
     - the organization's mission and goals, tempered by
     - possibilities (space, time, budget, people)
+
+-----
+
+>- Who are our users?
+>- Who are we?
+>- What can we do?
 
 -----
 
@@ -1618,7 +1635,7 @@ Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http:
 - What cultures are represented?
 - Are there different languages spoken?
 - What agencies in my local area serve the same audience?
-- What does my county do for the same audience I’m looking to  serve? What about the state level?
+- What does my county do for the same audience I’m looking to serve? What about the state level?
 
 -----
 
@@ -1631,17 +1648,31 @@ Lisa Kropp - [Know Your Neighborhood: A Community Needs Assessment Primer](http:
 
 -----
 
+## Who are our users?
+
 - census data
 - gate information
 - user surveys
-- [community analysis](https://www.lrs.org/public/ca_form.php)
----------
 
-# Reference
+------
+
+## Community Analysis
+
+_[community analysis form from the Colorado State Library](https://www.lrs.org/public/ca_form.php)_
+
+- An inventory of what your community looks like
+- Won't make decisions for you; rather, it helps inform your decision-making
 
 -----
 
-__Reference Transactions__ are information consultations in which library staff recommend, interpret, evaluate, and/or use information resources to help others to meet particular information needs. Reference transactions do not include formal instruction or exchanges that provide assistance with locations, schedules, equipment, supplies, or policy statements.
+
+[![IMLS Public Library Survey](images/pls.png){height=500px}](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey/explore-pls-data/about)
+
+IMLS Public Library Survey
+
+----
+
+__Reference transactions__ are information consultations in which library staff recommend, interpret, evaluate, and/or use information resources to help others to meet particular information needs. Reference transactions do not include formal instruction or exchanges that provide assistance with locations, schedules, equipment, supplies, or policy statements.
 
 - Reference and User Services Association (RUSA)
 
@@ -1658,7 +1689,7 @@ __Reference Work__ includes reference transactions and other activities that inv
 - _Creation and management of information resources_ includes the development and maintenance of materials that patrons can use independently, in-house or remotely, to satisfy their information needs.
 - _Assessment activities_ include the measurement and evaluation of reference work, resources, and services.
 
-\- Reference and User Services Association (RUSA)
+- Reference and User Services Association (RUSA)
 
 __What's notable here?__
 
@@ -1693,8 +1724,16 @@ __What's notable here?__
 
 - Readers Advisory (began in 1923 in Chicago)
 - [Bibliotherapy](http://www.ala.org/tools/atoz/bibliotherapy) (began in 1951 at U. of IL)
-- Term Paper Consulting
-- SDI (Selective Dissemination of Information)
+- Selective Dissemination of Information (SDI)  (1958)
+
+How are these practiced today?
+
+<div class="notes">
+Bibliotherapy looks to address trauma through immersion in relevant stories. e.g. books about death for children
+
+- SDI, though outdated as a term, is still relevant today. It was a concept that considered profiling of users, followed by gradual dissemination of new data relevant to those profiles. Think Twitter/FB feed algorithms, or Google's news recommendation.
+- Used in the talking book library
+</div>
 
 -------
 
@@ -1722,13 +1761,13 @@ Sometimes the answer is not enough
 
 ## Question Types
 
-- __Directional__. Information about library services / space: "Where do I return my books?"
-- __Instruction__. Learning to learn.
-- __Ready Reference__. Simple factual questions: "What is the average weight of an Asian elephant?"
-- __Reference__. More involved
-- __Research__. Require several categories of tools, more comprehensive
-- __Reader Advisory__. Connecting users to materials
-- __Referral__. Connecting users to services
+>- __Directional__. Information about library services / space: "Where do I return my books?"
+>- __Instruction__. Learning to learn.
+>- __Ready Reference__. Simple factual questions: "What is the average weight of an Asian elephant?"
+>- __Reference__. More involved
+>- __Research__. Require several categories of tools, more comprehensive
+>- __Reader Advisory__. Connecting users to materials
+>- __Referral__. Connecting users to services
 
 -------
 
@@ -1814,13 +1853,15 @@ question... (Conducting the Reference Interview, Nilsen and Radford)
 
 ### Journals
 
-- _RQ (Reference & User Services Quarterly, 1960- )
+- _RQ (Reference & User Services Quarterly, 1960- )_
 - _RSR (Reference Services Review, 1972- )_
 - _American Libraries, May issue_
 - _Library Journal_
 - _Choice_
 - _Booklist_
 - _School Library Journal_
+
+compiled by Clara Sitter
 
 -------
 
