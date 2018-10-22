@@ -7,12 +7,23 @@
 ## Today
 
 - Administration
-- (Outreach)
+- Outreach Wrap-Up
+- Services for the Blind and Physically Handicapped
 - Assessment
 
 --------
 
 ![](images/kiki2.jpg){height=600px}
+
+-----
+
+## Pet Pics
+
+![Lana and Cambria](images/lana-cambria.jpg){height=400px}
+
+-----
+
+![Allie](images/allie.jpg){height=600px}
 
 -------
 
@@ -24,9 +35,67 @@
 
 ## Announcements
 
-- Talking Book Library: *this* Friday at 9am.
+- Talking Book Library: *this* Friday at 10am.
+- RMSLA mini-conference: also this Friday
+- Dean of CU Libraries talk: Oct 26
+- Mentor For A Moment: Nov 6
+- Writing Group: Wednesdays 1-4pm
+- MCE Researching New Heights - Saturday 10am, Boulder (Meet Kiki!)
+    - See [Facebook](https://www.facebook.com/groups/1751676235087215) for people offering to carpool.
 
 ------------
+
+# Services for Blind and Physically-Handicapped Users
+
+------
+
+### History
+
+- late 19th c - Large libraries start collecting embossed books
+  - expensive, unstandardized, local
+- 1904 - Free Matter - mailing relevant materials for blind users is free
+- 1917 - Revised Braille - US standard
+- 1930s - Act to Provide Books for the Blind - establishing national library service
+  - raised character books and audio books (talking books)
+
+------
+
+- 1940s - appropriations to buy and distributed record players to loan to eligible readers
+- 1960s - now formats - slowing records, using tape
+  - tape also slowed down, so 'talking books' played 6hrs rather than 1.5hrs
+- 1999 - Web-Braille: online access to Braille (for download and embossing; now knows as Braille and Audio Reading Download)
+- 2000s - [ANSI/NISO Z39.86](http://www.niso.org/apps/group_public/download.php/14650/Z39_86_2005r2012.pdf) - Standard for the Digital Talking Book
+
+------
+
+### Copyright
+
+- braille doesn't compete with publisher profits, but talking books might!
+- _Solutions?_
+
+------
+
+> - copyright permission and statements
+> - strict controls: LOC-produced talking books were centralized at libraries, with limited materials
+> - DRM for digital talking books
+
+------
+
+1996:
+
+> It is not an infringement of copyright for an authorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other persons with disabilities.
+
+------
+
+## Materials for the Blind
+
+- Braille: embossed dots
+- Sight-saving Type: large-print (>13pt)
+- Talking books
+- descriptive video
+- talking books: created by the government
+
+-----
 
 # Assessment
 
@@ -86,6 +155,13 @@ Assessment has internal uses (determining if you have the correct services prope
 
 - Example OBE worksheet: [Evaluation Framework, New York State Library](http://www.nysl.nysed.gov/libdev/obe/basic/evl_frm.pdf)
 
+------
+
+## Outcomes
+
+- Outcomes are measureable, direct, and clear
+- They seek to measure *change* - in behaviour, skills, knowledge, attitudes
+
 ----
 
 __OBE Evaluation Example 1: Columbia County Read Together Program__
@@ -135,7 +211,6 @@ Target: (a) Participants' reported comfort level goes up 75% or more from worksh
 ![](images/eval-process.PNG)
 
 Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide to Evaluating your own Programs. Chapel Hill, N.C.: Horizon Research, Inc.
-
 
 ---------
 
