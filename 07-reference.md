@@ -34,6 +34,10 @@
 - Program plan
 - Reference services
 
+------
+
+[ARL Statistics](https://www.arl.org/focus-areas/statistics-assessment/statistical-trends#.W85wRWhKiUk)
+
 --------
 
 # Needs assessment
