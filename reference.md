@@ -1672,6 +1672,10 @@ IMLS Public Library Survey
 
 ----
 
+## Reference
+
+----
+
 __Reference transactions__ are information consultations in which library staff recommend, interpret, evaluate, and/or use information resources to help others to meet particular information needs. Reference transactions do not include formal instruction or exchanges that provide assistance with locations, schedules, equipment, supplies, or policy statements.
 
 - Reference and User Services Association (RUSA)
@@ -1717,6 +1721,11 @@ __What's notable here?__
 - Information & Referral
 - Research
 - Fee-based & Information brokering
+
+<div class="notes">
+Fee-based services sometimes seen in special libraries.
+
+</div>
 
 --------
 
@@ -1879,4 +1888,152 @@ compiled by Clara Sitter
 - Reference & User Services Association. (2003). _Professional competencies for reference & user services librarians_. Chicago: American Library Association. (Under revision 2016)
 
 - Reference & User Services Association. (2013). _Guidelines for behavioral performance of reference and information service providers_. Chicago: American Library Association.
+-----
+% Different Population Groups
+% Peter Organisciak
+% Fall 2017
+
+----
+
+## Today
+
+- presentations
+- discussion of different types of groups
+- Accessibility
+- services for blind and physically disabled
+
+-----
+
+![](images/kiki9.jpg)
+
+------
+
+![](images/1295287513-clever-girl.jpg)
+
+------
+
+## Administration
+
+- announcements?
+
+------
+
+# Accessibility
+
+-----
+
+## Low-mobility, home-bound
+
+>- building accessibility - elevator, automatic doors, braille signs, etc.
+>- book delivery, book by mail
+>- deposit collections
+>- virtual reference
+
+------
+
+## Technology problems
+
+What are the ways that we interface with technology in libraries?
+
+------
+
+>- mouse
+>- keyboard
+>- screen (high-density, low-density)
+>- touchscreens
+>- speakers
+>- game controllers
+
+--------------
+
+>- switches, large mice, large trackballs, joybox
+>- color correction
+>- screen-reading software
+>- voice-to-text
+>- smart pens
+>- captioning, descriptive text
+>- eye-tracking
+
+-------
+
+![](images/keyboard.png)
+
+-----
+
+![](images/trackpad.jpg)
+
+-----------
+
+>- density scaling, magnification
+>- stickykeys, filterkeys
+>- extra large mouse pointers
+>- high-contrast screen modes
+
+-------
+
+![VizWiz](images/vizwiz.png)
+
+-------
+
+![Switches](images/switches.png)
+
+https://www.ablenetinc.com/technology/switches
+
+-------
+
+## Other web issues
+
+- inaccessible text (e.g. in images)
+- no alt text on images
+- inaccessible or untested web design
+
+-----
+
+- complete a task using touch-to-text
+- If you wear glasses, trying to use your phone or computer without them (at arm's length if near-sighted, close up if far-sighted). See if any accessibility settings make it easier to read the news.
+- Try to watch a Youtube video muted, with automatic captioning. How effective are the captions? Try to find a movie scene where you're familiar with the dialogue.
+- Put on mittens and try to read a magazine. Go to the table of contents, find an article that looks interesting, then flip to that page.
+
+----
+-----
+% The Present and Future of Services 1
+% Peter Organisciak
+% November 6, 2017
+
+---------
+
+## Today
+
+- Presentations
+- The Present and Future of Services - Part 1
+
+------
+
+![](images/kiki10.jpg)
+
+-------
+
+## Administration
+
+- Announcements?
+- class trip to the Talking Book Library
+- RMIS happy hour - Nov 17, 6pm, Fermaentra
+
+-------
+
+- bilingual librarianship
+- "Library-View"
+- Don't leave behind older adults and rural users - we're still in a transition to digital
+    - also: population is aging!
+- more support for software that helps people with disabilities
+- improved algorithmic knowledge extraction, text entailment, etc. (e.g. Watson)
+- evolutions of libraries as space
+- automatic checkouts
+- "mini libraries" - library vending machines
+- robots, VR: more hardware
+- gamification; digital badges
+
+<div class="notes">
+Lab #5 Notes
+</div>
 -----

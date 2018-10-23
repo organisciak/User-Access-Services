@@ -94,6 +94,10 @@ IMLS Public Library Survey
 
 ----
 
+## Reference
+
+----
+
 __Reference transactions__ are information consultations in which library staff recommend, interpret, evaluate, and/or use information resources to help others to meet particular information needs. Reference transactions do not include formal instruction or exchanges that provide assistance with locations, schedules, equipment, supplies, or policy statements.
 
 - Reference and User Services Association (RUSA)
@@ -139,6 +143,11 @@ __What's notable here?__
 - Information & Referral
 - Research
 - Fee-based & Information brokering
+
+<div class="notes">
+Fee-based services sometimes seen in special libraries.
+
+</div>
 
 --------
 
