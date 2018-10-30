@@ -1612,6 +1612,10 @@ Bond, S. L., Boyd, S. E., & Rapp, K. A. (1997). Taking Stock: A Practical Guide 
 - Program plan
 - Reference services
 
+------
+
+[ARL Statistics](https://www.arl.org/focus-areas/statistics-assessment/statistical-trends#.W85wRWhKiUk)
+
 --------
 
 # Needs assessment
@@ -1672,6 +1676,10 @@ IMLS Public Library Survey
 
 ----
 
+## Reference
+
+----
+
 __Reference transactions__ are information consultations in which library staff recommend, interpret, evaluate, and/or use information resources to help others to meet particular information needs. Reference transactions do not include formal instruction or exchanges that provide assistance with locations, schedules, equipment, supplies, or policy statements.
 
 - Reference and User Services Association (RUSA)
@@ -1717,6 +1725,11 @@ __What's notable here?__
 - Information & Referral
 - Research
 - Fee-based & Information brokering
+
+<div class="notes">
+Fee-based services sometimes seen in special libraries.
+
+</div>
 
 --------
 
