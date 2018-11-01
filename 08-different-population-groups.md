@@ -23,6 +23,7 @@
 
 - This week's readings
 - Next week: Program Plan
+- Next week: class is online
 
 ---
 
@@ -58,6 +59,31 @@ What similar services are offered outside of libraries? Can we incorporate them 
 
 -----
 
+## Stats
+
+Compiled by [ALA](http://www.ala.org/asgcla/asclaissues/factsheetabout), 2005:
+
+>- 54 million Americans (19%) have disabilities
+>- More than half that number (35 million) have severe disabilities. 
+>- 8 million had hearing problems (14.8% of people with disabilities) 
+>- 8.1 million have vision problems (14.9%) 
+>- 1.8 million use wheelchairs (3.4%) 
+>- 1.1 million are blind (3.4%) 
+>- 1 million are deaf (1.9%) 
+>- 39 million Americans (15%) have learning disabilities (NIH estimate), overwhelmingly reading disabilities
+
+-------
+
+Accommodating disabilities serves others.
+
+<div class="notes">
+Great point from the previous ALA page.
+
+Think curb cuts.
+</div>
+
+-----
+
 ## Person-First Language
 
 - stress the person first, then the adjective
@@ -81,7 +107,15 @@ There are NO other terms for "bedridden” or "homebound” which actually conve
 
 </div>
 
--------
+-----
+
+## Training
+
+Supporting services for people with various disabilities may involve service offerings or technologies, but very often requires adaptive behaviour from staff. Training and practice is needed!
+
+[Library Accessibility Toolkits from The Association of Specialized Government and Cooperative Library Agencies (ASGCLA)](http://www.asgcladirect.org/resources/)
+
+------
 
 ## Low-mobility; Difficulty or inability to get around
 
@@ -114,11 +148,18 @@ Criteria 2: "The second criterion is that it is problematic for one to leave the
 
 -----
 
-## Training
+## Learning Differences; reading disabilities; dyslexia/dysgraphia/dyscalculia
 
-Supporting services for people with various disabilities may involve service offerings or technologies, but very often requires adaptive behaviour from staff. Training and practice is needed!
+A few suggestions on interactions:
 
-[Library Accessibility Toolkits from The Association of Specialized Government and Cooperative Library Agencies (ASGCLA)](http://www.asgcladirect.org/resources/)
+>- allow recording, offer materials for note-taking
+>- don't assume reading level by age: recommend materials based on other materials that the patron likes
+>- combine verbal and visual information
+
+Tools:
+
+>- Include adequate visual materials, audiobooks
+>- offer text-to-speech and speech-to-text in technology
 
 -----
 
@@ -162,6 +203,10 @@ Services:
 >- Text reference services
 
 (via ASGCLA)
+
+------
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What lighting are you using in your house?<br>Take a look at the lightbulbs. Are they similar to these? Anything that has a bendy tube in it is a fluorescent bulb. Many autistic people find them the same as a strobe light. Nightmare. Changing to a different type of bulb may help. <a href="https://t.co/ouoKEUXbu0">pic.twitter.com/ouoKEUXbu0</a></p>&mdash; Ann Memmott (@AnnMemmott) <a href="https://twitter.com/AnnMemmott/status/1040981557241098240?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------
 

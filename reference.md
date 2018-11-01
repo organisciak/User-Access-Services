@@ -1918,6 +1918,7 @@ compiled by Clara Sitter
 
 - This week's readings
 - Next week: Program Plan
+- Next week: class is online
 
 ---
 
@@ -1953,6 +1954,31 @@ What similar services are offered outside of libraries? Can we incorporate them 
 
 -----
 
+## Stats
+
+Compiled by [ALA](http://www.ala.org/asgcla/asclaissues/factsheetabout), 2005:
+
+>- 54 million Americans (19%) have disabilities
+>- More than half that number (35 million) have severe disabilities. 
+>- 8 million had hearing problems (14.8% of people with disabilities) 
+>- 8.1 million have vision problems (14.9%) 
+>- 1.8 million use wheelchairs (3.4%) 
+>- 1.1 million are blind (3.4%) 
+>- 1 million are deaf (1.9%) 
+>- 39 million Americans (15%) have learning disabilities (NIH estimate), overwhelmingly reading disabilities
+
+-------
+
+Accommodating disabilities serves others.
+
+<div class="notes">
+Great point from the previous ALA page.
+
+Think curb cuts.
+</div>
+
+-----
+
 ## Person-First Language
 
 - stress the person first, then the adjective
@@ -1976,7 +2002,15 @@ There are NO other terms for "bedridden” or "homebound” which actually conve
 
 </div>
 
--------
+-----
+
+## Training
+
+Supporting services for people with various disabilities may involve service offerings or technologies, but very often requires adaptive behaviour from staff. Training and practice is needed!
+
+[Library Accessibility Toolkits from The Association of Specialized Government and Cooperative Library Agencies (ASGCLA)](http://www.asgcladirect.org/resources/)
+
+------
 
 ## Low-mobility; Difficulty or inability to get around
 
@@ -2009,11 +2043,18 @@ Criteria 2: "The second criterion is that it is problematic for one to leave the
 
 -----
 
-## Training
+## Learning Differences; reading disabilities; dyslexia/dysgraphia/dyscalculia
 
-Supporting services for people with various disabilities may involve service offerings or technologies, but very often requires adaptive behaviour from staff. Training and practice is needed!
+A few suggestions on interactions:
 
-[Library Accessibility Toolkits from The Association of Specialized Government and Cooperative Library Agencies (ASGCLA)](http://www.asgcladirect.org/resources/)
+>- allow recording, offer materials for note-taking
+>- don't assume reading level by age: recommend materials based on other materials that the patron likes
+>- combine verbal and visual information
+
+Tools:
+
+>- Include adequate visual materials, audiobooks
+>- offer text-to-speech and speech-to-text in technology
 
 -----
 
@@ -2057,6 +2098,10 @@ Services:
 >- Text reference services
 
 (via ASGCLA)
+
+------
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What lighting are you using in your house?<br>Take a look at the lightbulbs. Are they similar to these? Anything that has a bendy tube in it is a fluorescent bulb. Many autistic people find them the same as a strobe light. Nightmare. Changing to a different type of bulb may help. <a href="https://t.co/ouoKEUXbu0">pic.twitter.com/ouoKEUXbu0</a></p>&mdash; Ann Memmott (@AnnMemmott) <a href="https://twitter.com/AnnMemmott/status/1040981557241098240?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ------
 
@@ -2138,4 +2183,45 @@ Exercise: considering complicating factors in daily media and technology.
 If you prefer not to perform the activity, identify a physical impairment or disability and consider the problems that it could reveal about traditional library materials and services. Be _thorough_:it is important to appreciate the depth and breadth of the challenges.
 
 ----
+-----
+% The Present and Future of Services 1
+% Peter Organisciak
+% November 6, 2017
+
+---------
+
+## Today
+
+- Presentations
+- The Present and Future of Services - Part 1
+
+------
+
+![](images/kiki10.jpg)
+
+-------
+
+## Administration
+
+- Announcements?
+- class trip to the Talking Book Library
+- RMIS happy hour - Nov 17, 6pm, Fermaentra
+
+-------
+
+- bilingual librarianship
+- "Library-View"
+- Don't leave behind older adults and rural users - we're still in a transition to digital
+    - also: population is aging!
+- more support for software that helps people with disabilities
+- improved algorithmic knowledge extraction, text entailment, etc. (e.g. Watson)
+- evolutions of libraries as space
+- automatic checkouts
+- "mini libraries" - library vending machines
+- robots, VR: more hardware
+- gamification; digital badges
+
+<div class="notes">
+Lab #5 Notes
+</div>
 -----
