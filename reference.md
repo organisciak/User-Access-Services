@@ -2402,9 +2402,47 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 
 - 24% of online adults use messaging apps that automatically delete sent messages ([Pew, 2016](http://www.pewinternet.org/2016/11/11/social-media-update-2016/))
 
+-----------
+
+## Next week
+
+- Last lab
+- More presentations
+-----
+% The Present and Future of Services 2
+% Peter Organisciak
+% Fall 2018
+
+## Today
+
+- Presentation
+- Lab discussion
+- The Present and Future of Services - Part 2
+
+------
+
+![](images/kiki11.jpg)
+
+-----
+
+## Administration
+
+- Marketing grade location
+- Course evaluations
+
+------
+
+![](images/ratingsgraph.jpg){class="plain"}
+
 -------
 
-## Digital Preservation
+## Announcements?
+
+- Hiring - Massive Texts Lab
+
+------------
+
+# Digital Preservation
 
 [![XKCD: Digital Resource Lifespan](images/digital_resource_lifespan.png)](https://xkcd.com/1909/)
 
@@ -2427,7 +2465,22 @@ IV. Libraries should cooperate with all persons and groups concerned with resist
 
 ----------
 
-## Trends
+- "third place" - libraries as a third place for learning beyond school and home
+- "Adultology" - Boulder class
+- mobile hotspots (rural), crafting space, robotics, cooking clubs
+studio space
+- casual and welcoming community spaces
+- Gaming (Fortnight, Minecraft)
+- VR - visiting dead or imaginary spaces
+- Technology branches
+- Elderly population and lower-income users will be left behind by reliance on digital technologies
+- Smart Cities - data-driven governance
+- Noise may deter some patrons
+- Ubiquitous Wifi access
+
+-------------
+
+# Trends
 
 [![Trends - Center for the Future of Libraries](images/trends.png)](http://www.ala.org/tools/future/trends)
 
@@ -2478,41 +2531,6 @@ Large Digital Libraries - Search by text inside
 
 -----
 
-## Next week
-
-- Last lab
-- More presentations
------
-% The Present and Future of Services 2
-% Peter Organisciak
-% Fall 2018
-
-## Today
-
-- Presentation
-- The Present and Future of Services - Part 2
-
-------
-
-![](images/kiki11.jpg)
-
------
-
-## Administration
-
-- Announcements?
-- Reminder: RMIS happy hour, Fri/6pm/Fermaentra
-- Exploring New Heights - Sat/9am/ Mt. Sanitas
-- Readings
-- Field trip debrief
-- Course evaluations
-
-------
-
-![](images/ratingsgraph.jpg){class="plain"}
-
------
-
 ## Better living through hardware
 
 Drones, robots, 3d printing, connected toys, internet of things, haptics, makerspaces
@@ -2531,7 +2549,18 @@ Drones, robots, 3d printing, connected toys, internet of things, haptics, makers
 
 ## Copyright
 
--------
+------
+
+## Information in Society
+
+Library and Information Science skills are pertinent in many ways beyond the library:
+can librarian expertise exist beyond libraries?
+
+>- How do people find information?
+>- How are our information systems biased, and how do we fix them?
+>- How do we organize and preserve the massive quantities of data that we have?
+
+------
 
 ## The Future
 
@@ -2557,6 +2586,51 @@ Drones, robots, 3d printing, connected toys, internet of things, haptics, makers
 - techno-optimism, but imagining the future around _needs_, not _haves_
 
 ------
+
+## Overview
+
+- Instruction and Reference
+- Impact Assessment and Needs Assessment
+- Outreach and Marketing
+- Information Behavior, User Needs
+- Services for different populations, different needs
+
+------
+
+- Libraries as information organizations must evolve to meet information needs
+- Libraries as community and civic spaces must understand their users closely and how their service needs manifest in ways different than 'status quo' service needs
+
+------
+
+## Social-optimized information services
+
+<div class="notes">
+
+- Information ethics, algorithmic ethics
+- Universal access
+
+What do you optimize on?
+
+Is it providing a good service?
+Is it making money?
+Is it collecting users?
+Is it in correcting wrongs and amplifying rights?
+
+How we set our targets changes what we give back to the world.
+Tech companies optimize for a mix of goals, but is it the mix that the world needs? Right now we're ceding the society to tech companies and their goals. Sometimes these are great, and silicon valley is not a net evil. However, when the goals don't align with societal good, they'll sometimes stray from outcomes that are not in the best interest of society.
+
+- Internet connecting toys that don't protect our children's privacy
+- Amazon using face recognition to identify potential criminals, and finding that it predominantly leads to black false positive.
+- Sentiment models that somehow assign a negative valence to traditional black names 
+- News feeds that burrow you in safe bubbles and prioritize outrageous assertions over honest ones, slowly moving your bubble toward extremism
+
+Let's not get into self-indulgent backpatting - this isn't who we are, this is what we could be and who we should aspire to be.
+
+Libraries are institutions dedicated to supporting honest and universal access to information. We should understand how data and information exists in society, but we should also *act* to correct when it's being misappropriated and perverted by unrepresentative goals.
+
+</div>
+
+-------
 
 # Thank you!
 -----
