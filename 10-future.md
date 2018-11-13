@@ -10,7 +10,7 @@
 
 ------
 
-![](images/kiki11.jpg)
+![](images/kiki11.jpg){height=600px}
 
 -----
 
