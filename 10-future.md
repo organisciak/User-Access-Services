@@ -25,8 +25,9 @@
 
 -------
 
-## Announcements?
+## Announcements
 
+- Apologies: no Kiki or Brady Bunch intro!
 - Hiring - Massive Texts Lab
 
 ------------
@@ -51,6 +52,26 @@
     - technical resources
 - Institutional Repositories
     - 1st party hosting for scholarly research
+
+----------
+
+- Adapting to space changes as more materials go digital  - thinking about hardware - studios, makerspaces, digitization stations, wifi hotspots, tool libraries
+- Community gardens, coffee shops, art galleries
+- Social workers - libraries as safe civic spaces for all
+- Filling in for struggling institutions; e.g. schools
+- Augmented reality for imaginary spaces 
+- Repair Cafes - working against modern disposable culture
+- Patron-based automatic recommendation
+- Digital literacy and empowerment centers, spaces for social discourse
+
+---------
+
+- Offline library services - device free zones, digital escape spaces, and board game nights
+- Loosening of geographic boundaries
+- Visual literacy in libraries
+- Corrections for income inequality - overhauling fine system, targeting markerspaces (Matt, Rob)
+- Digital materials: may improve access for users that cannot make it to the library, but also advantages people who have the hardware to access it
+- Deprofessionalization concerns
 
 ----------
 
